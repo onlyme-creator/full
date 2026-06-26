@@ -3,6 +3,10 @@
 merge.py — IPTV Playlist & EPG Builder
 Reads 'my_channels' (your custom #EXTINF lines), fetches third-party M3U
 sources to find matching stream URLs, then writes playlist.m3u and epg.xml.
+
+Sources span two repositories:
+  • BuddyChewChew/full         — original sources
+  • onlyme-creator/myt1        — second personal repo (extra channels)
 """
 
 import re
@@ -14,31 +18,42 @@ import requests
 # 1.  SOURCE LISTS  ← paste / edit your URLs here
 # ─────────────────────────────────────────────────────────────────────────────
 
-# Standard M3U / M3U8 sources (free / FAST channels, etc.)
+# Standard M3U / M3U8 sources (free / FAST channels, VOD, locals, etc.)
 M3U_SOURCES = [
+    # ── BuddyChewChew/full (original) ────────────────────────────────────────
     "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/refs/heads/main/tcl.m3u8",
     "https://raw.githubusercontent.com/BuddyChewChew/plex-alt-fast-channels/refs/heads/main/playlists/plex_us.m3u",
     "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
     "https://raw.githubusercontent.com/BuddyChewChew/samsungtvplus/refs/heads/main/output/samsung_tvplus.m3u",
     "https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_us.m3u",
-    # ← Add more M3U/M3U8 source URLs here, one per line (keep the trailing comma)
+
+    # ── onlyme-creator/myt1 (second personal repo) ───────────────────────────
+    "https://raw.githubusercontent.com/onlyme-creator/myt1/refs/heads/main/playlist.m3u",
+
+    # ← Add more M3U/M3U8 source URLs here, one per line (keep trailing comma)
 ]
 
-# Live-events / sports M3U8 sources  (fetched the same way; listed separately
-# just to keep them organised – they are merged with M3U_SOURCES at runtime)
+# Live-events / sports M3U8 sources  (merged with M3U_SOURCES at runtime)
 M3U8_LIVE_SOURCES = [
+    # ── BuddyChewChew/full (original) ────────────────────────────────────────
     "https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/liveeventsfilter.m3u8",
+
     # ← Add more live-event source URLs here
 ]
 
 # EPG / XML sources  (plain .xml  OR  gzip-compressed .xml.gz are both fine)
 XML_SOURCES = [
+    # ── BuddyChewChew/full (original) ────────────────────────────────────────
     "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml",
     "https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/us.xml.gz",
     "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/refs/heads/main/tcl_epg.xml",
     "https://raw.githubusercontent.com/BuddyChewChew/samsungtvplus/refs/heads/main/output/samsung_tvplus.xml",
     "https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz",
+
+    # ── onlyme-creator/myt1 (second personal repo) ───────────────────────────
+    "https://raw.githubusercontent.com/onlyme-creator/myt1/refs/heads/main/shrunk_epg.xml",
+
     # ← Add more XML/XML.GZ EPG source URLs here
 ]
 
@@ -50,10 +65,8 @@ MY_CHANNELS_FILE = "my_channels"      # path to your channel-definition file
 OUTPUT_PLAYLIST  = "playlist.m3u"     # generated playlist
 OUTPUT_EPG       = "epg.xml"          # generated EPG
 
-# How long (seconds) to wait for each HTTP request
 REQUEST_TIMEOUT  = 30
 
-# User-agent sent with every request (some servers block Python's default)
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -81,7 +94,7 @@ def fetch_text(url: str) -> str:
 
 
 def normalise(name: str) -> str:
-    """Lower-case, strip punctuation/spaces for fuzzy name matching."""
+    """Lower-case and strip all non-alphanumeric chars for fuzzy matching."""
     return re.sub(r"[^a-z0-9]", "", name.lower())
 
 
@@ -92,16 +105,12 @@ def extract_attr(line: str, attr: str) -> str:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# 4.  PARSE my_channels  →  list of (extinf_line, channel_name, tvg_id)
+# 4.  LOAD CHANNELS from my_channels
 # ─────────────────────────────────────────────────────────────────────────────
 
-def load_my_channels(path: str):
-    """
-    Read the file, skip section headers ([M3U_SOURCES] etc.) and blank lines,
-    collect only #EXTINF lines, and return structured records.
-    """
-    channels = []
-    seen_keys = set()           # deduplicate identical entries
+def load_my_channels(path: str) -> list:
+    channels  = []
+    seen_keys = set()
 
     with open(path, encoding="utf-8") as fh:
         for raw in fh:
@@ -109,32 +118,29 @@ def load_my_channels(path: str):
             if not line:
                 continue
             if line.startswith("[") and line.endswith("]"):
-                continue        # section header – skip
+                continue
             if line.startswith("http"):
-                continue        # a URL entry in a [*_SOURCES] block – skip
+                continue
             if not line.startswith("#EXTINF"):
-                continue        # anything else – skip
+                continue
 
             tvg_id   = extract_attr(line, "tvg-id")
             tvg_name = extract_attr(line, "tvg-name")
 
-            # Channel display name = text after the LAST comma on the line
             channel_name = line.rsplit(",", 1)[-1].strip() if "," in line else tvg_name
-
-            # Use tvg-name if present, else fall back to the display name
-            match_name = tvg_name if tvg_name else channel_name
+            match_name   = tvg_name if tvg_name else channel_name
 
             key = (tvg_id, normalise(match_name))
             if key in seen_keys:
-                continue        # skip exact duplicate entries
+                continue
             seen_keys.add(key)
 
             channels.append({
-                "extinf":      line,
-                "name":        channel_name,
-                "match_name":  match_name,
-                "norm_name":   normalise(match_name),
-                "tvg_id":      tvg_id,
+                "extinf":     line,
+                "name":       channel_name,
+                "match_name": match_name,
+                "norm_name":  normalise(match_name),
+                "tvg_id":     tvg_id,
             })
 
     print(f"[INFO] Loaded {len(channels)} unique channels from '{path}'")
@@ -142,10 +148,7 @@ def load_my_channels(path: str):
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# 5.  BUILD STREAM LOOKUP  from all M3U sources
-#     Returns two dicts keyed by normalised name AND by tvg-id:
-#       name_to_url  { norm_name  → stream_url }
-#       id_to_url    { tvg_id     → stream_url }
+# 5.  BUILD STREAM LOOKUP from all M3U sources
 # ─────────────────────────────────────────────────────────────────────────────
 
 def build_stream_lookup(sources: list) -> tuple[dict, dict]:
@@ -164,7 +167,6 @@ def build_stream_lookup(sources: list) -> tuple[dict, dict]:
             raw = lines[i].strip()
             if raw.startswith("#EXTINF"):
                 stream_url = ""
-                # The stream URL is on one of the next non-comment lines
                 j = i + 1
                 while j < len(lines):
                     candidate = lines[j].strip()
@@ -174,15 +176,15 @@ def build_stream_lookup(sources: list) -> tuple[dict, dict]:
                     j += 1
 
                 if stream_url:
-                    src_tvg_id   = extract_attr(raw, "tvg-id")
-                    src_tvg_name = extract_attr(raw, "tvg-name")
-                    src_display  = raw.rsplit(",", 1)[-1].strip() if "," in raw else ""
-                    norm_src     = normalise(src_tvg_name or src_display)
+                    src_id      = extract_attr(raw, "tvg-id")
+                    src_name    = extract_attr(raw, "tvg-name")
+                    src_display = raw.rsplit(",", 1)[-1].strip() if "," in raw else ""
+                    norm_src    = normalise(src_name or src_display)
 
                     if norm_src and norm_src not in name_to_url:
                         name_to_url[norm_src] = stream_url
-                    if src_tvg_id and src_tvg_id not in id_to_url:
-                        id_to_url[src_tvg_id] = stream_url
+                    if src_id and src_id not in id_to_url:
+                        id_to_url[src_id] = stream_url
 
                 i = j + 1
             else:
@@ -207,10 +209,7 @@ def write_playlist(channels: list, name_lookup: dict, id_lookup: dict, out_path:
         fh.write("#EXTM3U\n")
 
         for ch in channels:
-            # Priority 1 – exact tvg-id match
             stream = id_lookup.get(ch["tvg_id"], "")
-
-            # Priority 2 – normalised name match
             if not stream:
                 stream = name_lookup.get(ch["norm_name"], "")
 
@@ -229,27 +228,18 @@ def write_playlist(channels: list, name_lookup: dict, id_lookup: dict, out_path:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# 7.  WRITE epg.xml  (filter-and-merge)
+# 7.  WRITE epg.xml
 # ─────────────────────────────────────────────────────────────────────────────
 
 def write_epg(channels: list, xml_sources: list, out_path: str):
-    """
-    Pull every XML source, keep only <channel> and <programme> elements
-    whose id / channel attribute appears in our tvg-id set, then write
-    a single merged epg.xml.
-
-    We use a simple regex/string approach so there is no lxml dependency.
-    """
     wanted_ids = {ch["tvg_id"] for ch in channels if ch["tvg_id"]}
     print(f"[INFO] EPG: looking for {len(wanted_ids)} unique tvg-ids")
 
     collected_channels:   list[str] = []
     collected_programmes: list[str] = []
-    seen_channel_ids: set[str] = set()
+    seen_channel_ids:     set[str]  = set()
 
-    # Regex to pull a complete XML element (single or multi-line, self-closing
-    # or with closing tag).  We match lazily so we don't swallow siblings.
-    channel_re   = re.compile(
+    channel_re = re.compile(
         r'<channel\s[^>]*id="([^"]*)"[^>]*/?\s*>(?:.*?</channel>)?',
         re.DOTALL
     )
@@ -298,7 +288,6 @@ def write_epg(channels: list, xml_sources: list, out_path: str):
 # ─────────────────────────────────────────────────────────────────────────────
 
 def main():
-    # Combine both M3U lists into one for stream-lookup purposes
     all_m3u_sources = M3U_SOURCES + M3U8_LIVE_SOURCES
 
     print("=" * 60)
@@ -307,7 +296,7 @@ def main():
     channels = load_my_channels(MY_CHANNELS_FILE)
 
     print("\n" + "=" * 60)
-    print("Step 2 – Building stream lookup from M3U sources")
+    print("Step 2 – Building stream lookup from all M3U sources")
     print("=" * 60)
     name_lookup, id_lookup = build_stream_lookup(all_m3u_sources)
 
