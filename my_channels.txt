@@ -4,6 +4,7 @@ https://raw.githubusercontent.com/BuddyChewChew/plex-alt-fast-channels/refs/head
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u
 https://raw.githubusercontent.com/BuddyChewChew/samsungtvplus/refs/heads/main/output/samsung_tvplus.m3u
 https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_us.m3u
+https://raw.githubusercontent.com/onlyme-creator/myt1/refs/heads/main/playlist.m3u
 
 [M3U8_SOURCES] (LIVE EVENTS)
 https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/liveeventsfilter.m3u8
@@ -15,6 +16,7 @@ https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/refs/head
 https://raw.githubusercontent.com/BuddyChewChew/samsungtvplus/refs/heads/main/output/samsung_tvplus.xml
 https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/us.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz
+https://raw.githubusercontent.com/onlyme-creator/myt1/refs/heads/main/shrunk_epg.xml 
 
 [CHANNELS]
 #EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="TV",A&E TV
