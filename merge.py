@@ -45,6 +45,7 @@ M3U8_LIVE_SOURCES = [
 PASSTHROUGH_SOURCES = [
     # ── BuddyChewChew/full (daily live events) ───────────────────────────────
     "https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/liveeventsfilter.m3u8",
+    "https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/nowstreams.m3u8",
 
     # ← Add more passthrough live-event sources here
 ]
