@@ -7,6 +7,8 @@ sources to find matching stream URLs, then writes playlist.m3u and epg.xml.
 Sources span two repositories:
   • BuddyChewChew/full         — original sources
   • onlyme-creator/myt1        — second personal repo (extra channels)
+
+Passthrough sources are written directly into the playlist as-is (live events).
 """
 
 import re
@@ -18,7 +20,7 @@ import requests
 # 1.  SOURCE LISTS  ← paste / edit your URLs here
 # ─────────────────────────────────────────────────────────────────────────────
 
-# Standard M3U / M3U8 sources (free / FAST channels, VOD, locals, etc.)
+# Standard M3U / M3U8 sources (fixed/permanent channels)
 M3U_SOURCES = [
     # ── BuddyChewChew/full (original) ────────────────────────────────────────
     "https://raw.githubusercontent.com/BuddyChewChew/tcl-playlist-generator/refs/heads/main/tcl.m3u8",
@@ -33,12 +35,18 @@ M3U_SOURCES = [
     # ← Add more M3U/M3U8 source URLs here, one per line (keep trailing comma)
 ]
 
-# Live-events / sports M3U8 sources  (merged with M3U_SOURCES at runtime)
+# Live-events / sports sources — used as LOOKUP only (not passthrough)
 M3U8_LIVE_SOURCES = [
-    # ── BuddyChewChew/full (original) ────────────────────────────────────────
+    # ← Add lookup-only live sources here if needed
+]
+
+# Passthrough sources — written DIRECTLY into playlist.m3u as-is every run.
+# Do NOT add these channels to my_channels. The content updates automatically.
+PASSTHROUGH_SOURCES = [
+    # ── BuddyChewChew/full (daily live events) ───────────────────────────────
     "https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/liveeventsfilter.m3u8",
 
-    # ← Add more live-event source URLs here
+    # ← Add more passthrough live-event sources here
 ]
 
 # EPG / XML sources  (plain .xml  OR  gzip-compressed .xml.gz are both fine)
@@ -58,13 +66,12 @@ XML_SOURCES = [
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
-# 2.  SETTINGS  (tweak if needed)
+# 2.  SETTINGS
 # ─────────────────────────────────────────────────────────────────────────────
 
-MY_CHANNELS_FILE = "my_channels"      # path to your channel-definition file
-OUTPUT_PLAYLIST  = "playlist.m3u"     # generated playlist
-OUTPUT_EPG       = "epg.xml"          # generated EPG
-
+MY_CHANNELS_FILE = "my_channels"
+OUTPUT_PLAYLIST  = "playlist.m3u"
+OUTPUT_EPG       = "epg.xml"
 REQUEST_TIMEOUT  = 30
 
 HEADERS = {
@@ -199,15 +206,24 @@ def build_stream_lookup(sources: list) -> tuple[dict, dict]:
 
 # ─────────────────────────────────────────────────────────────────────────────
 # 6.  WRITE playlist.m3u
+#     Part A — matched permanent channels from my_channels
+#     Part B — passthrough live events appended directly
 # ─────────────────────────────────────────────────────────────────────────────
 
-def write_playlist(channels: list, name_lookup: dict, id_lookup: dict, out_path: str):
+def write_playlist(
+    channels: list,
+    name_lookup: dict,
+    id_lookup: dict,
+    passthrough_sources: list,
+    out_path: str,
+):
     matched   = 0
     unmatched = []
 
     with open(out_path, "w", encoding="utf-8") as fh:
         fh.write("#EXTM3U\n")
 
+        # ── Part A: permanent channels ────────────────────────────────────────
         for ch in channels:
             stream = id_lookup.get(ch["tvg_id"], "")
             if not stream:
@@ -220,9 +236,39 @@ def write_playlist(channels: list, name_lookup: dict, id_lookup: dict, out_path:
             else:
                 unmatched.append(ch["name"])
 
-    print(f"[INFO] playlist.m3u → {matched} channels matched")
+        # ── Part B: passthrough live events ───────────────────────────────────
+        total_passthrough = 0
+        for url in passthrough_sources:
+            print(f"[INFO] Passthrough: {url}")
+            text = fetch_text(url)
+            if not text:
+                continue
+
+            count = 0
+            lines = text.splitlines()
+            i = 0
+            while i < len(lines):
+                line = lines[i].strip()
+
+                # Skip the #EXTM3U header line — we already wrote our own
+                if line.startswith("#EXTM3U"):
+                    i += 1
+                    continue
+
+                # Write every line as-is (EXTINF, EXTVLCOPT, stream URL, blank)
+                fh.write(line + "\n")
+
+                if line.startswith("#EXTINF"):
+                    count += 1
+
+                i += 1
+
+            print(f"  → {count} live event entries written from passthrough")
+            total_passthrough += count
+
+    print(f"[INFO] playlist.m3u → {matched} permanent + {total_passthrough} live event entries")
     if unmatched:
-        print(f"[WARN] {len(unmatched)} channels had no stream match:")
+        print(f"[WARN] {len(unmatched)} permanent channels had no stream match:")
         for n in unmatched:
             print(f"         • {n}")
 
@@ -296,14 +342,14 @@ def main():
     channels = load_my_channels(MY_CHANNELS_FILE)
 
     print("\n" + "=" * 60)
-    print("Step 2 – Building stream lookup from all M3U sources")
+    print("Step 2 – Building stream lookup from M3U sources")
     print("=" * 60)
     name_lookup, id_lookup = build_stream_lookup(all_m3u_sources)
 
     print("\n" + "=" * 60)
-    print("Step 3 – Writing playlist.m3u")
+    print("Step 3 – Writing playlist.m3u (permanent + live events)")
     print("=" * 60)
-    write_playlist(channels, name_lookup, id_lookup, OUTPUT_PLAYLIST)
+    write_playlist(channels, name_lookup, id_lookup, PASSTHROUGH_SOURCES, OUTPUT_PLAYLIST)
 
     print("\n" + "=" * 60)
     print("Step 4 – Writing epg.xml")
