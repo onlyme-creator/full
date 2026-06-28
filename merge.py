@@ -43,10 +43,7 @@ M3U8_LIVE_SOURCES = [
 # Passthrough sources — written DIRECTLY into playlist.m3u as-is every run.
 # Do NOT add these channels to my_channels. The content updates automatically.
 PASSTHROUGH_SOURCES = [
-    # ── BuddyChewChew/full (daily live events) ───────────────────────────────
-    "https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/liveeventsfilter.m3u8",
-
-    # ← Add more passthrough live-event sources here
+    # ← Add passthrough live-event sources here when ready
 ]
 
 # EPG / XML sources  (plain .xml  OR  gzip-compressed .xml.gz are both fine)
