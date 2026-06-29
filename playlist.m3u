@@ -11,8 +11,6 @@ http://23.239.31.26:8989/amc/index.m3u8
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="CHARGE!" tvg-logo="http://dtil.tmsimg.com/assets/s102148_ll_h15_ab.png?w=360&h=270" group-title="",Charge! TV
 http://freedom4all365.top:8080/live/Konner/Konner/175943.m3u8
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&h=270" group-title="",ESPN
-http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" group-title="",Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" tvg-logo="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&h=270" group-title="",Cozi TV
