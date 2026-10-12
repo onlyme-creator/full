@@ -9,9 +9,20 @@ Sources span two repositories:
   • onlyme-creator/myt1        — second personal repo (extra channels)
 
 Passthrough sources are written directly into the playlist as-is (live events).
+
+Alternates ([ALT_CHANNELS] in my_channels): a second stream for a channel you
+already have, taken from ALT_SOURCE (doms9). Their #EXTVLCOPT header lines
+(user-agent / referrer) are kept, and their token URLs are fetched fresh on
+every run, which is why the playlist-only mode below is meant to run often.
+
+Usage:
+  python merge.py                  full build  (playlist.m3u + epg.xml)
+  python merge.py --playlist-only  quick build (playlist.m3u only, epg.xml untouched)
 """
 
+import os
 import re
+import sys
 import gzip
 import io
 import requests
@@ -46,6 +57,11 @@ PASSTHROUGH_SOURCES = [
     # ← Add passthrough live-event sources here when ready
 ]
 
+# Alternate-stream source. Entries listed under [ALT_CHANNELS] in my_channels
+# are pulled from here WITH their #EXTVLCOPT header lines and labelled "(Alt)".
+ALT_SOURCE = "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.m3u8"
+ALT_LABEL  = "(Alt)"
+
 # EPG / XML sources  (plain .xml  OR  gzip-compressed .xml.gz are both fine)
 XML_SOURCES = [
     # ── BuddyChewChew/full (original) ────────────────────────────────────────
@@ -66,7 +82,8 @@ XML_SOURCES = [
 # 2.  SETTINGS
 # ─────────────────────────────────────────────────────────────────────────────
 
-MY_CHANNELS_FILE = "my_channels"
+# The script uses whichever of these exists in the repo
+MY_CHANNEL_FILE_CANDIDATES = ["my_channels", "my_channels.txt"]
 OUTPUT_PLAYLIST  = "playlist.m3u"
 OUTPUT_EPG       = "epg.xml"
 REQUEST_TIMEOUT  = 30
@@ -111,6 +128,30 @@ def extract_attr(line: str, attr: str) -> str:
 # ─────────────────────────────────────────────────────────────────────────────
 # 4.  LOAD CHANNELS from my_channels
 # ─────────────────────────────────────────────────────────────────────────────
+
+def find_channels_file() -> str:
+    for cand in MY_CHANNEL_FILE_CANDIDATES:
+        if os.path.exists(cand):
+            return cand
+    sys.exit(f"[ERROR] None of {MY_CHANNEL_FILE_CANDIDATES} found in {os.getcwd()}")
+
+
+def load_alt_ids(path: str) -> list:
+    """Read the [ALT_CHANNELS] section: one doms9 tvg-id per line ('#' = comment)."""
+    ids, in_alt = [], False
+    with open(path, encoding="utf-8") as fh:
+        for raw in fh:
+            line = raw.strip()
+            if line.startswith("[") and "]" in line:
+                in_alt = line.upper().startswith("[ALT_CHANNELS]")
+                continue
+            if in_alt and line and not line.startswith("#"):
+                ident = line.split("|")[0].strip()
+                if ident and ident not in ids:
+                    ids.append(ident)
+    print(f"[INFO] {len(ids)} alternate channel ids requested")
+    return ids
+
 
 def load_my_channels(path: str) -> list:
     channels  = []
@@ -202,6 +243,52 @@ def build_stream_lookup(sources: list) -> tuple[dict, dict]:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# 5b. ALTERNATES — header-preserving lookup from ALT_SOURCE, keyed by tvg-id
+# ─────────────────────────────────────────────────────────────────────────────
+
+def build_alt_lookup(url: str) -> dict:
+    """tvg-id -> {"extinf": str, "opts": [#EXTVLCOPT/#EXTHTTP lines], "url": str}"""
+    print(f"[INFO] Fetching alternates: {url}")
+    text = fetch_text(url)
+    alts: dict = {}
+    if not text:
+        return alts
+
+    lines = text.splitlines()
+    i = 0
+    while i < len(lines):
+        raw = lines[i].strip()
+        if not raw.startswith("#EXTINF"):
+            i += 1
+            continue
+        opts, stream_url, j = [], "", i + 1
+        while j < len(lines):
+            cand = lines[j].strip()
+            if cand.startswith("#EXTINF"):
+                break
+            if cand.startswith("#EXTVLCOPT") or cand.startswith("#EXTHTTP"):
+                opts.append(cand)
+            elif cand and not cand.startswith("#"):
+                stream_url = cand
+                break
+            j += 1
+        tid = extract_attr(raw, "tvg-id")
+        if stream_url and tid and tid not in alts:
+            alts[tid] = {"extinf": raw, "opts": opts, "url": stream_url}
+        i = j + 1 if stream_url else j
+
+    print(f"[INFO] Alternates lookup built — {len(alts)} channels")
+    return alts
+
+
+def alt_extinf(extinf: str) -> str:
+    """Label the display name '(Alt)' and drop tvg-chno so numbering never clashes."""
+    extinf = re.sub(r'\s*tvg-chno="[^"]*"', "", extinf)
+    head, _, name = extinf.rpartition(",")
+    return f"{head},{name.strip()} {ALT_LABEL}"
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 # 6.  WRITE playlist.m3u
 #     Part A — matched permanent channels from my_channels
 #     Part B — passthrough live events appended directly
@@ -213,9 +300,13 @@ def write_playlist(
     id_lookup: dict,
     passthrough_sources: list,
     out_path: str,
-):
+    alt_ids: list = (),
+    alt_lookup: dict = None,
+) -> set:
+    """Returns the set of tvg-ids present in the written playlist."""
     matched   = 0
     unmatched = []
+    written_ids: set = set()
 
     with open(out_path, "w", encoding="utf-8") as fh:
         fh.write("#EXTM3U\n")
@@ -230,8 +321,24 @@ def write_playlist(
                 fh.write(ch["extinf"] + "\n")
                 fh.write(stream + "\n")
                 matched += 1
+                if ch["tvg_id"]:
+                    written_ids.add(ch["tvg_id"])
             else:
                 unmatched.append(ch["name"])
+
+        # ── Part A2: alternates (with their header lines) ─────────────────────
+        alt_written, alt_missing = 0, []
+        for tid in alt_ids:
+            a = (alt_lookup or {}).get(tid)
+            if not a:
+                alt_missing.append(tid)
+                continue
+            fh.write(alt_extinf(a["extinf"]) + "\n")
+            for opt in a["opts"]:
+                fh.write(opt + "\n")
+            fh.write(a["url"] + "\n")
+            alt_written += 1
+            written_ids.add(tid)
 
         # ── Part B: passthrough live events ───────────────────────────────────
         total_passthrough = 0
@@ -263,24 +370,31 @@ def write_playlist(
             print(f"  → {count} live event entries written from passthrough")
             total_passthrough += count
 
-    print(f"[INFO] playlist.m3u → {matched} permanent + {total_passthrough} live event entries")
+    print(
+        f"[INFO] playlist.m3u → {matched} permanent + {alt_written} alternates "
+        f"+ {total_passthrough} live event entries"
+    )
+    if alt_missing:
+        print(f"[WARN] {len(alt_missing)} alternates not found in ALT_SOURCE: {', '.join(alt_missing)}")
     if unmatched:
         print(f"[WARN] {len(unmatched)} permanent channels had no stream match:")
         for n in unmatched:
             print(f"         • {n}")
+    return written_ids
 
 
 # ─────────────────────────────────────────────────────────────────────────────
 # 7.  WRITE epg.xml
 # ─────────────────────────────────────────────────────────────────────────────
 
-def write_epg(channels: list, xml_sources: list, out_path: str):
-    wanted_ids = {ch["tvg_id"] for ch in channels if ch["tvg_id"]}
+def write_epg(channels: list, xml_sources: list, out_path: str, extra_ids=()):
+    wanted_ids = {ch["tvg_id"] for ch in channels if ch["tvg_id"]} | set(extra_ids)
     print(f"[INFO] EPG: looking for {len(wanted_ids)} unique tvg-ids")
 
     collected_channels:   list[str] = []
     collected_programmes: list[str] = []
     seen_channel_ids:     set[str]  = set()
+    seen_programmes:      set[tuple] = set()
 
     channel_re = re.compile(
         r'<channel\s[^>]*id="([^"]*)"[^>]*/?\s*>(?:.*?</channel>)?',
@@ -306,12 +420,24 @@ def write_epg(channels: list, xml_sources: list, out_path: str):
 
         for m in programme_re.finditer(text):
             if m.group(1) in wanted_ids:
+                st = re.search(r'start="([^"]*)"', m.group(0))
+                key = (m.group(1), st.group(1) if st else m.group(0))
+                if key in seen_programmes:
+                    continue          # same show already supplied by an earlier source
+                seen_programmes.add(key)
                 collected_programmes.append(m.group(0))
 
     print(
         f"[INFO] EPG: collected {len(collected_channels)} channel entries, "
         f"{len(collected_programmes)} programme entries"
     )
+
+    no_guide = sorted(wanted_ids - {m.group(1) for b in collected_channels
+                                    for m in [re.search(r'id="([^"]*)"', b)] if m})
+    if no_guide:
+        print(f"[WARN] {len(no_guide)} playlist tvg-ids have no guide data in any EPG source:")
+        for cid in no_guide:
+            print(f"         • {cid}")
 
     with open(out_path, "w", encoding="utf-8") as fh:
         fh.write('<?xml version="1.0" encoding="UTF-8"?>\n')
@@ -331,32 +457,48 @@ def write_epg(channels: list, xml_sources: list, out_path: str):
 # ─────────────────────────────────────────────────────────────────────────────
 
 def main():
+    playlist_only = "--playlist-only" in sys.argv
     all_m3u_sources = M3U_SOURCES + M3U8_LIVE_SOURCES
+    channels_file = find_channels_file()
 
     print("=" * 60)
-    print("Step 1 – Loading my_channels")
+    print(f"Step 1 – Loading {channels_file}" + ("   [playlist-only mode]" if playlist_only else ""))
     print("=" * 60)
-    channels = load_my_channels(MY_CHANNELS_FILE)
+    channels = load_my_channels(channels_file)
+    alt_ids  = load_alt_ids(channels_file)
 
     print("\n" + "=" * 60)
     print("Step 2 – Building stream lookup from M3U sources")
     print("=" * 60)
     name_lookup, id_lookup = build_stream_lookup(all_m3u_sources)
+    alt_lookup = build_alt_lookup(ALT_SOURCE) if alt_ids else {}
+
+    # Safety net: if the alternates source is down, fail the run instead of
+    # publishing a playlist with the alternates silently missing.
+    if alt_ids and not alt_lookup:
+        sys.exit("[ERROR] Alternates source returned nothing; leaving existing files untouched.")
 
     print("\n" + "=" * 60)
-    print("Step 3 – Writing playlist.m3u (permanent + live events)")
+    print("Step 3 – Writing playlist.m3u (permanent + alternates + live events)")
     print("=" * 60)
-    write_playlist(channels, name_lookup, id_lookup, PASSTHROUGH_SOURCES, OUTPUT_PLAYLIST)
+    written_ids = write_playlist(
+        channels, name_lookup, id_lookup, PASSTHROUGH_SOURCES, OUTPUT_PLAYLIST,
+        alt_ids, alt_lookup,
+    )
 
-    print("\n" + "=" * 60)
-    print("Step 4 – Writing epg.xml")
-    print("=" * 60)
-    write_epg(channels, XML_SOURCES, OUTPUT_EPG)
+    if playlist_only:
+        print("\n[INFO] Playlist-only mode: epg.xml left unchanged.")
+    else:
+        print("\n" + "=" * 60)
+        print("Step 4 – Writing epg.xml")
+        print("=" * 60)
+        write_epg(channels, XML_SOURCES, OUTPUT_EPG, extra_ids=[t for t in alt_ids if t in written_ids])
 
     print("\n" + "=" * 60)
     print("Done!  Files written:")
     print(f"  • {OUTPUT_PLAYLIST}")
-    print(f"  • {OUTPUT_EPG}")
+    if not playlist_only:
+        print(f"  • {OUTPUT_EPG}")
     print("=" * 60)
 
 
