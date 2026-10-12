@@ -1,42 +1,48 @@
 name: Update IPTV Playlist & EPG
 
 on:
-  # Run automatically every day at 06:00 UTC
   schedule:
+    # Quick refresh every 2 hours: playlist only (keeps token links fresh)
+    - cron: "15 */2 * * *"
+    # Full build once a day: playlist + EPG
     - cron: "0 6 * * *"
 
-  # Allow you to trigger a run manually from the Actions tab
+  # Run manually from the Actions tab
   workflow_dispatch:
+
+# Never run two builds at once
+concurrency:
+  group: update-iptv
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    # ── CRITICAL: grants the job permission to push files back to the repo ──
     permissions:
       contents: write
-    # ───────────────────────────────────────────────────────────────────────
 
     steps:
-      # 1. Check out the repository so the runner can read/write your files
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2. Install Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 3. Install the only third-party dependency
       - name: Install dependencies
         run: pip install requests
 
-      # 4. Run your merge script — this creates playlist.m3u and epg.xml
+      # The 06:00 UTC schedule and manual runs do a FULL build (playlist + EPG).
+      # Every other scheduled run only refreshes the playlist.
       - name: Run merge.py
-        run: python merge.py
+        run: |
+          if [ "${{ github.event.schedule }}" = "15 */2 * * *" ]; then
+            python merge.py --playlist-only
+          else
+            python merge.py
+          fi
 
-      # 5. Commit and push the new files back to the repository
       - name: Commit and push updated files
         run: |
           git config user.name  "github-actions[bot]"
@@ -44,4 +50,5 @@ jobs:
           git add playlist.m3u epg.xml
           # Only commit if something actually changed
           git diff --cached --quiet || git commit -m "Auto-update playlist and EPG [skip ci]"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
