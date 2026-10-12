@@ -62,6 +62,29 @@ PASSTHROUGH_SOURCES = [
 ALT_SOURCE = "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.m3u8"
 ALT_LABEL  = "(Alt)"
 
+# Live events from doms9, filtered to the sports below. Headers (#EXTVLCOPT) are
+# kept and the list is rebuilt on every run (event links expire fast).
+LIVE_EVENTS_SOURCE = "https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/events.m3u8"
+
+# An event is kept if its tvg-id is in LIVE_EVENT_IDS, OR the [tag] at the start
+# of its name contains one of LIVE_EVENT_KEYWORDS (case-insensitive).
+# Remove a word/id to drop that sport; add one to include more.
+LIVE_EVENT_IDS = {
+    "NFL.Dummy.us",              # American football
+    "Football.Dummy.us",         # NFL Network / RedZone entries
+    "NBA.Basketball.Dummy.us",   # basketball
+    "MLB.Baseball.Dummy.us",     # baseball
+    "Baseball.Dummy.us",
+}
+LIVE_EVENT_KEYWORDS = [
+    "american football", "nfl", "ncaaf", "college football",
+    "basketball", "nba", "wnba", "ncaab",
+    "baseball", "mlb",
+    "tennis", "atp", "wta", "us open", "wimbledon", "roland garros",
+    "australian open", "davis cup", "grand slam",
+    "boxing", "boxeo", "pbc", "top rank", "golden boy", "matchroom",
+]
+
 # EPG / XML sources  (plain .xml  OR  gzip-compressed .xml.gz are both fine)
 XML_SOURCES = [
     # ── BuddyChewChew/full (original) ────────────────────────────────────────
@@ -289,6 +312,53 @@ def alt_extinf(extinf: str) -> str:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
+# 5c. LIVE EVENTS — filtered by sport, headers kept
+# ─────────────────────────────────────────────────────────────────────────────
+
+def build_live_events(url: str) -> list:
+    """Return filtered event blocks: each is a list of lines (EXTINF, opts, URL)."""
+    print(f"[INFO] Fetching live events: {url}")
+    text = fetch_text(url)
+    blocks, total = [], 0
+    if not text:
+        return blocks
+
+    lines = text.splitlines()
+    i = 0
+    while i < len(lines):
+        raw = lines[i].strip()
+        if not raw.startswith("#EXTINF"):
+            i += 1
+            continue
+        block, stream_url, j = [raw], "", i + 1
+        while j < len(lines):
+            cand = lines[j].strip()
+            if cand.startswith("#EXTINF"):
+                break
+            if cand.startswith("#"):
+                block.append(cand)
+            elif cand:
+                block.append(cand)
+                stream_url = cand
+                break
+            j += 1
+        i = j + 1 if stream_url else j
+        if not stream_url:
+            continue
+        total += 1
+
+        tid  = extract_attr(raw, "tvg-id")
+        name = extract_attr(raw, "tvg-name") or raw.rsplit(",", 1)[-1]
+        m    = re.match(r"\s*\[([^\]]*)\]", name)
+        tag  = (m.group(1) if m else "").lower()
+        if tid in LIVE_EVENT_IDS or any(k in tag for k in LIVE_EVENT_KEYWORDS):
+            blocks.append(block)
+
+    print(f"[INFO] Live events: kept {len(blocks)} of {total}")
+    return blocks
+
+
+# ─────────────────────────────────────────────────────────────────────────────
 # 6.  WRITE playlist.m3u
 #     Part A — matched permanent channels from my_channels
 #     Part B — passthrough live events appended directly
@@ -302,6 +372,7 @@ def write_playlist(
     out_path: str,
     alt_ids: list = (),
     alt_lookup: dict = None,
+    live_events: list = (),
 ) -> set:
     """Returns the set of tvg-ids present in the written playlist."""
     matched   = 0
@@ -340,8 +411,13 @@ def write_playlist(
             alt_written += 1
             written_ids.add(tid)
 
+        # ── Part A3: filtered live events from LIVE_EVENTS_SOURCE ─────────────
+        for block in live_events:
+            for line in block:
+                fh.write(line + "\n")
+
         # ── Part B: passthrough live events ───────────────────────────────────
-        total_passthrough = 0
+        total_passthrough = len(live_events)
         for url in passthrough_sources:
             print(f"[INFO] Passthrough: {url}")
             text = fetch_text(url)
@@ -472,6 +548,7 @@ def main():
     print("=" * 60)
     name_lookup, id_lookup = build_stream_lookup(all_m3u_sources)
     alt_lookup = build_alt_lookup(ALT_SOURCE) if alt_ids else {}
+    live_events = build_live_events(LIVE_EVENTS_SOURCE) if LIVE_EVENTS_SOURCE else []
 
     # Safety net: if the alternates source is down, fail the run instead of
     # publishing a playlist with the alternates silently missing.
@@ -483,7 +560,7 @@ def main():
     print("=" * 60)
     written_ids = write_playlist(
         channels, name_lookup, id_lookup, PASSTHROUGH_SOURCES, OUTPUT_PLAYLIST,
-        alt_ids, alt_lookup,
+        alt_ids, alt_lookup, live_events,
     )
 
     if playlist_only:
