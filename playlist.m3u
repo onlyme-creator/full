@@ -330,323 +330,227 @@ https://cache0.wonvt.st/live/108kde90atgxpe1b70g4o/master.m3u8
 #EXTVLCOPT:http-referrer=https://tvnow.st/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://cache0.wonvt.st/live/0x8kufu0m609fs0hv3gqj/master.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="Football.Dummy.us" tvg-name="[American Football] Colorado State Rams vs. Texas State Bobcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Colorado State Rams vs. Texas State Bobcats | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="4" tvg-id="Football.Dummy.us" tvg-name="[American Football] App State Mountaineers vs. Coastal Carolina Chanticleers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] App State Mountaineers vs. Coastal Carolina Chanticleers | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream7.pro/hls/oipozuezeji33.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="Football.Dummy.us" tvg-name="[American Football] East Carolina Pirates vs. UAB Blazers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] East Carolina Pirates vs. UAB Blazers | English (STRMCNTR)
+https://edgestream7.pro/hls/qsdnajbq32.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="Football.Dummy.us" tvg-name="[American Football] Memphis Tigers vs. Tulane Green Wave | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Memphis Tigers vs. Tulane Green Wave | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream5.pro/hls/JHDAJBDnjdna30.m3u8
+#EXTINF:-1 tvg-chno="6" tvg-id="Football.Dummy.us" tvg-name="[American Football] Washington Huskies vs. Purdue Boilermakers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Washington Huskies vs. Purdue Boilermakers | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/sfjnzabacah31.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="Football.Dummy.us" tvg-name="[American Football] Georgia Southern Eagles vs. Old Dominion Monarchs | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Georgia Southern Eagles vs. Old Dominion Monarchs | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/qsdnajbq32.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-id="NFL.Dummy.us" tvg-name="[American Football] Seattle Seahawks vs. Denver Broncos | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[American Football] Seattle Seahawks vs. Denver Broncos | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream7.pro/hls/JHDAJBDnjdna30.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="Baseball.Dummy.us" tvg-name="[Baseball] Milwaukee Brewers vs. Los Angeles Dodgers | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[Baseball] Milwaukee Brewers vs. Los Angeles Dodgers | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream5.pro/hls/16yuitzaerghbhc16.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Tampa Bay Rays vs. Cleveland Guardians | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Tampa Bay Rays vs. Cleveland Guardians | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="10" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Tampa Bay Rays vs. Cleveland Guardians | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Tampa Bay Rays vs. Cleveland Guardians | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/dazhfiach15.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Oklahoma City Thunder vs. Houston Rockets | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Oklahoma City Thunder vs. Houston Rockets | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="11" tvg-id="Basketball.Dummy.us" tvg-name="[Basketball NBL] Tasmania JackJumpers vs Adelaide (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/04/Basketball-Emoji-1536x864.png" group-title="Live Events",[Basketball NBL] Tasmania JackJumpers vs Adelaide (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/znnna.m3u8
+#EXTINF:-1 tvg-chno="12" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Atlanta Hawks vs. Dallas Mavericks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Atlanta Hawks vs. Dallas Mavericks | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream7.pro/hls/wfazgsqtrezu66.m3u8
-#EXTINF:-1 tvg-chno="10" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Toronto Raptors vs. New York Knicks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Toronto Raptors vs. New York Knicks | English (STRMCNTR)
+https://edgestream1.pro/hls/zeafwqvhfe69.m3u8
+#EXTINF:-1 tvg-chno="13" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Boston Celtics vs. Philadelphia 76ers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Boston Celtics vs. Philadelphia 76ers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8
+#EXTINF:-1 tvg-chno="14" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Charlotte Hornets vs. Memphis Grizzlies | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Charlotte Hornets vs. Memphis Grizzlies | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream5.pro/hls/ztyarueaghj71.m3u8
+#EXTINF:-1 tvg-chno="15" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Denver Nuggets vs. Los Angeles Lakers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Denver Nuggets vs. Los Angeles Lakers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/xcsfadafgzfg76.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Miami Heat vs. Orlando Magic | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Miami Heat vs. Orlando Magic | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/mlkijfezag65.m3u8
-#EXTINF:-1 tvg-chno="118" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Los Angeles Dodgers vs Milwaukee Brewers 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Los Angeles Dodgers vs Milwaukee Brewers 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTINF:-1 tvg-chno="17" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Milwaukee Bucks vs. Indiana Pacers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Milwaukee Bucks vs. Indiana Pacers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/777YAA.m3u8
-#EXTINF:-1 tvg-chno="119" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB Baseball] Los Angeles Dodgers vs Milwaukee Brewers 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB Baseball] Los Angeles Dodgers vs Milwaukee Brewers 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://edgestream7.pro/hls/zayrtezafgvdv68.m3u8
+#EXTINF:-1 tvg-chno="18" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Minnesota Timberwolves vs. Chicago Bulls | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Minnesota Timberwolves vs. Chicago Bulls | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://admin2.formaturamaxi.com.br/mlb.m3u8
-#EXTINF:-1 tvg-chno="120" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Brewers vs Dodgers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Brewers vs Dodgers (WEBCAST)
-#EXTVLCOPT:http-referrer=https://mlbwebcast.com
+https://edgestream2.pro/hls/fdgsqdfawa73.m3u8
+#EXTINF:-1 tvg-chno="19" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Portland Trail Blazers vs. Golden State Warriors | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Portland Trail Blazers vs. Golden State Warriors | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=OGaQQhPsjMAJYuO65i2o7Qze3JpaJgyzjA5oRBB-1MI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj%2F&expires=1792117927/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhElkJJ36sE5m_ABEhUzYefj/133.m3u8
-#EXTINF:-1 tvg-chno="121" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs Tampa Bay Rays | ESPN 3 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians vs Tampa Bay Rays | ESPN 3 (STRMXHD)
+https://edgestream5.pro/hls/yjtzafghvjza74.m3u8
+#EXTINF:-1 tvg-chno="20" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Sacramento Kings vs. San Antonio Spurs | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Sacramento Kings vs. San Antonio Spurs | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Toronto Raptors vs. Detroit Pistons | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Toronto Raptors vs. Detroit Pistons | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/hfsdqtaxvb67.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Utah Jazz vs. Phoenix Suns | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Utah Jazz vs. Phoenix Suns | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/sqhdghzavbxu75.m3u8
+#EXTINF:-1 tvg-chno="23" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Washington Wizards vs. New Orleans Pelicans | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Washington Wizards vs. New Orleans Pelicans | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream6.pro/hls/pllmazjkdzajh72.m3u8
+#EXTINF:-1 tvg-chno="180" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs Tampa Bay Rays | ESPN 3 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians vs Tampa Bay Rays | ESPN 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn3/index.m3u8?token=03533bfcff5487d1e804c5ee44aec12e97f7c975-15-1792157406-1792103406
-#EXTINF:-1 tvg-chno="122" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Milwaukee Brewers (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Milwaukee Brewers (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58086?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/58086/load-playlist
-#EXTINF:-1 tvg-chno="123" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Milwaukee Brewers | Disney+ (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Milwaukee Brewers | Disney+ (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://10.ftlly.com:443/disney11/mono.m3u8?token=ade65114710f029508fdead05faa450ba2a73ce1-ae-1792122307-1792104307
-#EXTINF:-1 tvg-chno="124" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Milwaukee Brewers | ESPN 3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Milwaukee Brewers | ESPN 3 (TVF90)
+https://khala.futlivehd.com/global/espn3/index.m3u8?token=87930b7958590faab25cd62ee11eafa699c7570d-35-1792197006-1792143006
+#EXTINF:-1 tvg-chno="181" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs. Tampa Bay Rays | ESPN 3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians vs. Tampa Bay Rays | ESPN 3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/espn3/mono.m3u8?token=0d2315ec02cdce081b586425778bffa4417219ad-b-1792122307-1792104307
-#EXTINF:-1 tvg-chno="125" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Milwaukee Brewers | ESPN 3 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Milwaukee Brewers | ESPN 3 | HD (TVF90)
+https://5.ftlly.com:443/espn3/mono.m3u8?token=d78b3dacf9b3fef40b7f5dd98d778f75bd681e32-e8-1792169116-1792151116
+#EXTINF:-1 tvg-chno="182" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs. Tampa Bay Rays | ESPN 3 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians vs. Tampa Bay Rays | ESPN 3 | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://5.ftlly.com:443/espn3/mono.m3u8?token=94095ca91f6f638b89358ee7584ec9369a7fc19f-ea-1792122309-1792104309
-#EXTINF:-1 tvg-chno="126" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Milwaukee Brewers | ESPN 3 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Milwaukee Brewers | ESPN 3 | OP2 (TVF90)
+https://4.ftlly.com:443/espn3/mono.m3u8?token=2025cd1ad20a0b302481b76e94b1ab1dd70cfab3-d8-1792169117-1792151117
+#EXTINF:-1 tvg-chno="183" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs. Tampa Bay Rays | ESPN 3 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians vs. Tampa Bay Rays | ESPN 3 | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://10.ftlly.com:443/espn3/mono.m3u8?token=0b41e1361c7467853fc8cb5039dd0b90cb90222e-29-1792122308-1792104308
-#EXTINF:-1 tvg-chno="127" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Milwaukee Brewers | ESPN 3 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Milwaukee Brewers | ESPN 3 | OP3 (TVF90)
+https://10.ftlly.com:443/espn3/mono.m3u8?token=a91dbb79155e2037759a9c6ce7265728783ce428-73-1792169117-1792151117
+#EXTINF:-1 tvg-chno="184" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Cleveland Guardians vs. Tampa Bay Rays | ESPN 3 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Cleveland Guardians vs. Tampa Bay Rays | ESPN 3 | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/espn3/mono.m3u8?token=2a71dd3150f5a57c928e1059e248c7628a7579b9-c3-1792122308-1792104308
-#EXTINF:-1 tvg-chno="128" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Milwaukee Brewers | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Milwaukee Brewers | Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://c2f2zq.fubo18.com:443/disney11/mono.m3u8?token=a95d51825ea91c8b18f5468e5a8e2f3a7d111432-bb-1792125926-1792107926
-#EXTINF:-1 tvg-chno="129" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Milwaukee Brewers | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Milwaukee Brewers | Español 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=foxdeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://c2f2zq.fubo18.com:443/foxdeportes/mono.m3u8?token=5240bdd024efd4658f89d75c0e5c401917eae7ad-e7-1792125926-1792107926
-#EXTINF:-1 tvg-chno="130" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Milwaukee Brewers | FOX Deportes (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Milwaukee Brewers | FOX Deportes (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=foxdeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/foxdeportes/mono.m3u8?token=e4e4e4b62bb964e17607f75b5c4ff2cd3da81ee4-a0-1792122307-1792104307
-#EXTINF:-1 tvg-chno="131" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Milwaukee Brewers | FOX Deportes | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Milwaukee Brewers | FOX Deportes | HD (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=foxdeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://2.ftlly.com:443/foxdeportes/mono.m3u8?token=9ebe8ef3bbf8214d1a477dda30a1d1c79649e2fc-47-1792122309-1792104309
-#EXTINF:-1 tvg-chno="132" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Milwaukee Brewers | FOX Deportes | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Milwaukee Brewers | FOX Deportes | OP2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=foxdeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/foxdeportes/mono.m3u8?token=99f59296e4ade597901c9ff548e6863bb842e5f5-b2-1792122308-1792104308
-#EXTINF:-1 tvg-chno="133" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Los Angeles Dodgers vs Milwaukee Brewers | FOX Deportes | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Los Angeles Dodgers vs Milwaukee Brewers | FOX Deportes | OP3 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=foxdeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://10.ftlly.com:443/foxdeportes/mono.m3u8?token=4c89f95ab4a427ebd0e2de8df8a029ae16aa6a53-2-1792122309-1792104309
-#EXTINF:-1 tvg-chno="134" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers at Los Angeles Dodgers (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Milwaukee Brewers at Los Angeles Dodgers (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/mlb/dodgers.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://pixelranger.s3.us-east-1.amazonaws.com/dodgers.m3u8
-#EXTINF:-1 tvg-chno="135" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Los Angeles Dodgers (Playoffs Game #4) 1 (STP)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[MLB] Milwaukee Brewers vs Los Angeles Dodgers (Playoffs Game #4) 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=disney18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.envivosenhd.beer:443/global/disney18/index.m3u8?token=1daf5e9c63f6206bf74275d7d56c50487cdae43c-4b-1792164620-1792110620
-#EXTINF:-1 tvg-chno="136" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Los Angeles Dodgers (Playoffs Game #4) 2 (STP)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[MLB] Milwaukee Brewers vs Los Angeles Dodgers (Playoffs Game #4) 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=foxone1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.envivosenhd.beer:443/global/foxone1/index.m3u8?token=48c01f884bc241fb8e40cab6faa9039f49177a37-1a-1792164620-1792110620
-#EXTINF:-1 tvg-chno="137" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Los Angeles Dodgers (Playoffs Game #4) 3 (STP)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[MLB] Milwaukee Brewers vs Los Angeles Dodgers (Playoffs Game #4) 3 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=foxdeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/foxdeportes/index.m3u8?token=f0c4643020644b85893f0a20482065640eb42e81-54-1792164620-1792110620
-#EXTINF:-1 tvg-chno="138" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Los Angeles Dodgers | Disney + (STRMXHD)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[MLB] Milwaukee Brewers vs Los Angeles Dodgers | Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney8/index.m3u8?token=a269313173401d67175087e06fa5bd2a470f59ab-ae-1792150205-1792096205
-#EXTINF:-1 tvg-chno="139" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Milwaukee Brewers vs Los Angeles Dodgers | English (STRMGATE)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[MLB] Milwaukee Brewers vs Los Angeles Dodgers | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401908033
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.pro/live3/tv401908033/index.m3u8?st=H-0zeUJdmRr2xlKnpK1-vg&e=1792128607
-#EXTINF:-1 tvg-chno="140" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Rays vs Guardians (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Rays vs Guardians (WEBCAST)
+https://2.ftlly.com:443/espn3/mono.m3u8?token=a47fa12dfcd8a84b53670e0547a7782cd784f09d-cb-1792169117-1792151117
+#EXTINF:-1 tvg-chno="185" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Rays vs Guardians (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Rays vs Guardians (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=vENQgW05Kouqgx1WX-6ElcaPEDMGrlIpeHovBo1e6Jk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ%2F&expires=1792117926/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ/108.m3u8
-#EXTINF:-1 tvg-chno="141" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Houston Rockets vs Oklahoma City Thunder 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Houston Rockets vs Oklahoma City Thunder 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://webcast-origin.b-cdn.net/bcdn_token=KoyfvS4637Ya2bwKJ9nCO4VOiCUcp7yCDt5qrKzJ2hg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ%2F&expires=1792152126/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEsXq6znQdZQ5HNs9x4iTxJ/108.m3u8
+#EXTINF:-1 tvg-chno="186" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Tampa Bay Rays vs Cleveland Guardians (Playoffs Game #4) 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Tampa Bay Rays vs Cleveland Guardians (Playoffs Game #4) 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=disney7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.59/hls/777YAAA.m3u8
-#EXTINF:-1 tvg-chno="142" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] Houston Rockets vs Oklahoma City Thunder 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] Houston Rockets vs Oklahoma City Thunder 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/a8aab5cf-a5b5-4ca0-b649-0029eb79c602.m3u8
-#EXTINF:-1 tvg-chno="143" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] New York Knicks vs Toronto Raptors 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] New York Knicks vs Toronto Raptors 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/555GAAAA.m3u8
-#EXTINF:-1 tvg-chno="144" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Basketball] New York Knicks vs Toronto Raptors 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Basketball] New York Knicks vs Toronto Raptors 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://www.rtmpcdn.com/live/6e8481ed-0f66-47c2-a66d-53142c13e2c4.m3u8
-#EXTINF:-1 tvg-chno="145" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Preseason] Houston Rockets vs Oklahoma City Thunder (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Preseason] Houston Rockets vs Oklahoma City Thunder (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58093?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/58093/load-playlist
-#EXTINF:-1 tvg-chno="146" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] 76ers vs Celtics | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] 76ers vs Celtics | NBA League Pass (STRMXHD)
+https://98.envivosenhd.beer:443/global/disney7/index.m3u8?token=74afa426eff9317004eb268767d0109a7f94c4dc-0d-1792200607-1792146607
+#EXTINF:-1 tvg-chno="189" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] 76ers vs Celtics | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] 76ers vs Celtics | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba4/index.m3u8?token=fa7770d195934c0aed948352c95c4f6e791e7498-28-1792157406-1792103406
-#EXTINF:-1 tvg-chno="147" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Bulls vs Timberwolves | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Bulls vs Timberwolves | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba4/index.m3u8?token=245f21f511226472b3e105fd15b16deac199e7c1-43-1792197006-1792143006
+#EXTINF:-1 tvg-chno="190" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Bulls vs Timberwolves | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Bulls vs Timberwolves | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba5/index.m3u8?token=888b523a13ba04ffc17c9394135affa885c8911f-0e-1792157406-1792103406
-#EXTINF:-1 tvg-chno="148" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Grizzlies vs Hornets | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Grizzlies vs Hornets | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba5/index.m3u8?token=d381bf623c8b51dada4d68fd83ef13dc2e21fa63-05-1792197006-1792143006
+#EXTINF:-1 tvg-chno="191" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Grizzlies vs Hornets | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Grizzlies vs Hornets | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba6/index.m3u8?token=4d81f86fb265edab79c15aa12e84c5e767f6b88e-47-1792157406-1792103406
-#EXTINF:-1 tvg-chno="149" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Knicks vs Raptors | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Knicks vs Raptors | NBA League Pass (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba1/index.m3u8?token=f90d61d30c504092ad236853336febe2fba2fb86-dc-1792150206-1792096206
-#EXTINF:-1 tvg-chno="150" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Lakers vs Nuggets | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Lakers vs Nuggets | ESPN 2 (STRMXHD)
+https://khala.futlivehd.com/global/nba6/index.m3u8?token=2570171a00c6f154959546dd4a28ac92157ff5ef-84-1792197007-1792143007
+#EXTINF:-1 tvg-chno="192" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Lakers vs Nuggets | ESPN 2 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Lakers vs Nuggets | ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=ec2d54546a2389f7e4c5067c6079c3465a14ffb7-72-1792157407-1792103407
-#EXTINF:-1 tvg-chno="151" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Magic vs Heat | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Magic vs Heat | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=66de04fa816b2e5718216d34f6a3ca2f90f649ac-c0-1792197007-1792143007
+#EXTINF:-1 tvg-chno="193" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Los Angeles Lakers vs. Denver Nuggets | ESPN 2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Los Angeles Lakers vs. Denver Nuggets | ESPN 2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://7.ftlly.com:443/espn2/mono.m3u8?token=8a7b0a8d09c9e656b6391b1ae2c9252e2d7de7eb-96-1792169113-1792151113
+#EXTINF:-1 tvg-chno="194" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Los Angeles Lakers vs. Denver Nuggets | ESPN 2 | HD (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Los Angeles Lakers vs. Denver Nuggets | ESPN 2 | HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://6.ftlly.com:443/espn2/mono.m3u8?token=3849d216eb2be12c232d5ecfd8fefdaaeeb71284-82-1792169114-1792151114
+#EXTINF:-1 tvg-chno="195" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Los Angeles Lakers vs. Denver Nuggets | ESPN 2 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Los Angeles Lakers vs. Denver Nuggets | ESPN 2 | OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://9.ftlly.com:443/espn2/mono.m3u8?token=05950af9faf94e86dba3b08c0a540376b89d0c9b-72-1792169113-1792151113
+#EXTINF:-1 tvg-chno="196" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Los Angeles Lakers vs. Denver Nuggets | ESPN 2 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Los Angeles Lakers vs. Denver Nuggets | ESPN 2 | OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://2.ftlly.com:443/espn2/mono.m3u8?token=14bb2de84780ad32aa94819095ea837d045eb4bd-33-1792169114-1792151114
+#EXTINF:-1 tvg-chno="197" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Magic vs Heat | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Magic vs Heat | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba2/index.m3u8?token=8f15de3716bc6531077bf5c479c98edbf4a33596-42-1792157406-1792103406
-#EXTINF:-1 tvg-chno="152" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Mavericks vs Hawks | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Mavericks vs Hawks | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba2/index.m3u8?token=f021340e3ad1b59e2a1aa578f94a1a7db5de25e1-1d-1792197006-1792143006
+#EXTINF:-1 tvg-chno="198" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Mavericks vs Hawks | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Mavericks vs Hawks | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba8/index.m3u8?token=b9bf6766412c8fd88e82b152e82b4b0f72dbdc03-2f-1792157407-1792103407
-#EXTINF:-1 tvg-chno="153" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Pacers vs Bucks | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Pacers vs Bucks | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba8/index.m3u8?token=d6e6f5765d95cb41c3f6661bf0c133ea44f46f14-b4-1792197007-1792143007
+#EXTINF:-1 tvg-chno="199" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Pacers vs Bucks | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Pacers vs Bucks | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba3/index.m3u8?token=3cb3060a027ca1179d16d0d940cd0773ed4f75d6-6b-1792157406-1792103406
-#EXTINF:-1 tvg-chno="154" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Pelicans vs Wizards | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Pelicans vs Wizards | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba3/index.m3u8?token=9305bedd585b55863d6e3818c220a0ebf6a92b7b-83-1792197006-1792143006
+#EXTINF:-1 tvg-chno="200" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Pelicans vs Wizards | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Pelicans vs Wizards | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba9/index.m3u8?token=e26149e6fc99b24581231afa2400a88b94dbaef9-f6-1792157407-1792103407
-#EXTINF:-1 tvg-chno="155" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Pistons vs Raptors | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Pistons vs Raptors | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba9/index.m3u8?token=caf6eb37fc7dde823f89c08c9be4b4f16bb81dc4-92-1792197007-1792143007
+#EXTINF:-1 tvg-chno="201" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Pistons vs Raptors | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Pistons vs Raptors | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba1/index.m3u8?token=9b8341da43d3581f81905e6a1275165491fbae5f-92-1792157406-1792103406
-#EXTINF:-1 tvg-chno="156" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Rockets vs Thunder | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Rockets vs Thunder | NBA League Pass (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba2/index.m3u8?token=5c5f517aa1cc48165e72c3221491f7b201cda44f-43-1792150206-1792096206
-#EXTINF:-1 tvg-chno="157" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Spurs vs Kings | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Spurs vs Kings | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba1/index.m3u8?token=67d03a3b2fbb45887cda4a51701e97e94bdd2a83-8c-1792197006-1792143006
+#EXTINF:-1 tvg-chno="202" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Spurs vs Kings | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Spurs vs Kings | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba7/index.m3u8?token=16ed894cad657ce0cea19a21ce0d77fbbe421481-cf-1792157407-1792103407
-#EXTINF:-1 tvg-chno="158" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Suns vs Jazz | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Suns vs Jazz | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba7/index.m3u8?token=2f3e15807af8f799aecd46f8dd3e9ca44e40cf0c-60-1792197007-1792143007
+#EXTINF:-1 tvg-chno="203" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Suns vs Jazz | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Suns vs Jazz | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba10/index.m3u8?token=028a18f3d15bf675f0a2f1d6d107c17a2e6e183e-21-1792157407-1792103407
-#EXTINF:-1 tvg-chno="159" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Warriors vs Trail Blazers | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Warriors vs Trail Blazers | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba10/index.m3u8?token=d64b3677fb41dc5f7821e05a050cba62a2efd565-b6-1792197006-1792143006
+#EXTINF:-1 tvg-chno="204" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA Pretemporada] Warriors vs Trail Blazers | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA Pretemporada] Warriors vs Trail Blazers | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=nba11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba11/index.m3u8?token=2ebbeb6c6808ca35c0bcd5b313bd917ee20c34a4-d7-1792157407-1792103407
-#EXTINF:-1 tvg-chno="160" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Houston Rockets vs Oklahoma City Thunder (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Houston Rockets vs Oklahoma City Thunder (FLYEMBD)
-#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/8tl2ksef
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://judiaslevels.embeds.gay/main/secure/b12f9a43ed1c293f582027456405fa8e831b42faa7a5fd2bd7b69e83551f17ea/1792125006/nbatv-usa.m3u8
-#EXTINF:-1 tvg-chno="161" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Oklahoma City Thunder at Houston Rockets (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Oklahoma City Thunder at Houston Rockets (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nba/thunder.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://pixelranger.s3.us-east-1.amazonaws.com/thunder.m3u8
-#EXTINF:-1 tvg-chno="162" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Oklahoma City Thunder vs Houston Rockets (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_oklahoma-city-thunder-vs-houston-rockets_Oklahoma_City_Thunder_vs_Houst" group-title="Live Events",[NBA] Oklahoma City Thunder vs Houston Rockets (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://streamfree.top/live-cdn/oklahoma-city-thunder-vs-houston-rockets1080p3/index.m3u8?_e=1792141206&_n=7e330b200574a987&_t=kg8GMFX2LiwNYHyyboGPtA
-#EXTINF:-1 tvg-chno="163" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Oklahoma City Thunder vs Houston Rockets | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Oklahoma City Thunder vs Houston Rockets | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401908622
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.live/live3/tv401908622/index.m3u8?st=-crF7bArKe6OQEMBq-JhmA&e=1792130421
-#EXTINF:-1 tvg-chno="164" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Toronto Raptors at New York Knicks (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Toronto Raptors at New York Knicks (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nba/knicks.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://pixelranger.s3.us-east-1.amazonaws.com/knicks.m3u8
-#EXTINF:-1 tvg-chno="165" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Toronto Raptors vs New York Knicks | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Toronto Raptors vs New York Knicks | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401908945
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.live/live3/tv401908945/index.m3u8?st=90k0LTN95Yx-rrF-o2acCA&e=1792126807
-#EXTINF:-1 tvg-chno="166" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Old Dominion vs Georgia Southern (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Old Dominion vs Georgia Southern (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/555GAAAAA.m3u8
-#EXTINF:-1 tvg-chno="167" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Texas State Bobcats vs Colorado State Rams (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Texas State Bobcats vs Colorado State Rams (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/777YA.m3u8
-#EXTINF:-1 tvg-chno="168" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] UAB vs East Carolina (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] UAB vs East Carolina (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/777Y.m3u8
-#EXTINF:-1 tvg-chno="169" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] East Carolina Pirates vs UAB Blazers (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_east-carolina-pirates-vs-uab-blazers_East_Carolina_Pirates_vs_UAB_B" group-title="Live Events",[NCAAF] East Carolina Pirates vs UAB Blazers (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://streamfree.top/live-origin/east-carolina-pirates-vs-uab-blazers1080p3/index.m3u8?_e=1792148420&_n=2a87f70f42a7e4d0&_t=rZvVpEI2S_0RFQSENz7RSA
-#EXTINF:-1 tvg-chno="170" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Georgia Southern Eagles vs Old Dominion Monarchs (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_georgia-southern-eagles-vs-old-dominion-monarchs_Georgia_Southern_Eagles_vs_Old" group-title="Live Events",[NCAAF] Georgia Southern Eagles vs Old Dominion Monarchs (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://streamfree.top/live-origin/georgia-southern-eagles-vs-old-dominion-monarchs1080p3/index.m3u8?_e=1792148421&_n=5868df596149c9fe&_t=S8I9IXedtQI73cfTOhz78w
-#EXTINF:-1 tvg-chno="171" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Denver Broncos vs Seattle Seahawks 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Denver Broncos vs Seattle Seahawks 1 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/F111.m3u8
-#EXTINF:-1 tvg-chno="172" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Denver Broncos vs Seattle Seahawks 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Denver Broncos vs Seattle Seahawks 2 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/F111X.m3u8
-#EXTINF:-1 tvg-chno="173" tvg-id="NFL.Dummy.us" tvg-name="[NFL American Football] Denver Broncos vs Seattle Seahawks 3 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL American Football] Denver Broncos vs Seattle Seahawks 3 (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://tedesco.formaturamaxi.com.br/nfl.m3u8
-#EXTINF:-1 tvg-chno="174" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Broncos vs Seahawks 1 (STP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Broncos vs Seahawks 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espn7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/espn7/index.m3u8?token=5116265cb623e18c5a3725ee04b5d51050f27d3f-5f-1792164620-1792110620
-#EXTINF:-1 tvg-chno="175" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Denver Broncos vs Seattle Seahawks (FLYEMBD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Denver Broncos vs Seattle Seahawks (FLYEMBD)
-#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/2wpp4rr5-4427
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://judiaslevels.embeds.gay/main/secure/654009628e9b4b0f6318a3b6dc09616a34471cb47e4c104c8fa6b081a2e783d1/1792125006/nfl-401872995.m3u8
-#EXTINF:-1 tvg-chno="176" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Denver Broncos vs Seattle Seahawks (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Denver Broncos vs Seattle Seahawks (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58090?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/58090/load-playlist
-#EXTINF:-1 tvg-chno="177" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Denver Broncos vs Seattle Seahawks | Disney+ (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Denver Broncos vs Seattle Seahawks | Disney+ (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4.ftlly.com:443/disney13/mono.m3u8?token=e58848e1ac4850812e14beac05f7007a3e222ef1-8a-1792122313-1792104313
-#EXTINF:-1 tvg-chno="178" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Denver Broncos vs Seattle Seahawks | ESPN 7 (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Denver Broncos vs Seattle Seahawks | ESPN 7 (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn7/index.m3u8?token=26e1b8443d314ce6b5ba0cd7284c8741957d93e5-9a-1792150213-1792096213
-#EXTINF:-1 tvg-chno="179" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Denver Broncos vs Seattle Seahawks | ESPN 7 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Denver Broncos vs Seattle Seahawks | ESPN 7 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/espn7/mono.m3u8?token=cd484974d0373eebcdd578f1702db4e75f1f7ba7-d-1792122312-1792104312
-#EXTINF:-1 tvg-chno="180" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Denver Broncos vs Seattle Seahawks | ESPN 7 | OP2 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Denver Broncos vs Seattle Seahawks | ESPN 7 | OP2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/espn7/mono.m3u8?token=8b604018fc0751c4c1609bdeb832f86ec6c09a4f-57-1792122313-1792104313
-#EXTINF:-1 tvg-chno="181" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Denver Broncos vs Seattle Seahawks | ESPN 7 | OP3 (TVF90)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Denver Broncos vs Seattle Seahawks | ESPN 7 | OP3 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://2.ftlly.com:443/espn7/mono.m3u8?token=f32c015e1f3d4dc3a912814669a7b8a614937c9a-4c-1792122313-1792104313
-#EXTINF:-1 tvg-chno="182" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Denver Broncos vs Seattle Seahawks | Español 1 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Denver Broncos vs Seattle Seahawks | Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://dglvz29s.fubo18.com:443/espn7/mono.m3u8?token=137a37a1e0c1a609755dff539cf10f0076986aa8-e1-1792125929-1792107929
-#EXTINF:-1 tvg-chno="183" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Denver Broncos vs Seattle Seahawks | Español 2 (PLIBRE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Denver Broncos vs Seattle Seahawks | Español 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://a2lja3m.fubo18.com:443/disney13/mono.m3u8?token=25021a102bffbe54bf3eab63f114eb441e1b556e-f6-1792125929-1792107929
-#EXTINF:-1 tvg-chno="184" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Seahawks vs Broncos (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Seahawks vs Broncos (WEBCAST)
+https://khala.futlivehd.com/global/nba11/index.m3u8?token=73b0bc77476f44d223a5fd8be4d342c646b276b3-64-1792197007-1792143007
+#EXTINF:-1 tvg-chno="205" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Bears vs Falcons (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Bears vs Falcons (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=hYZcEyySdUY02CI6zZU-qVtX3kJiXNOvARM3kGCkALU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJ4YE54AJoYEdt7KlQSGf%2F&expires=1792117927/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFiJ4YE54AJoYEdt7KlQSGf/54.m3u8
-#EXTINF:-1 tvg-chno="185" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Seattle Seahawks at Denver Broncos (SPRTSPASS)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Seattle Seahawks at Denver Broncos (SPRTSPASS)
-#EXTVLCOPT:http-referrer=https://sportspass.click/nfl/seahawks.html
+https://webcast-origin.b-cdn.net/bcdn_token=ZhSZKsHp3ZRe6hphRQ3aNnAoImdViq2o_jaXHs_HbZE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv%2F&expires=1792152128/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv/64.m3u8
+#EXTINF:-1 tvg-chno="206" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Bills vs Raiders (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Bills vs Raiders (WEBCAST)
+#EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://pixelranger.s3.us-east-1.amazonaws.com/sportsnet.m3u8
-#EXTINF:-1 tvg-chno="186" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Seattle Seahawks vs Denver Broncos (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_seattle-seahawks-vs-denver-broncos_Seattle_Seahawks_vs_Denver_Bro" group-title="Live Events",[NFL] Seattle Seahawks vs Denver Broncos (STRMFREE)
-#EXTVLCOPT:http-referrer=https://streamfree.top
+https://webcast-origin.b-cdn.net/bcdn_token=Mpeuk1neKbxRN-sjuECowauPWDLGD0gBHpcd52BjlSM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGtMo1okNBZlDE9tP5KCJum%2F&expires=1792152131/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGtMo1okNBZlDE9tP5KCJum/72.m3u8
+#EXTINF:-1 tvg-chno="207" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cardinals vs Rams (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Cardinals vs Rams (WEBCAST)
+#EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://streamfree.top/live-cdn/seattle-seahawks-vs-denver-broncos1080p/index.m3u8?_e=1792141207&_n=e9dccbbd02f5671c&_t=3ZsSM3K2qSNTcygLdcHl7w
-#EXTINF:-1 tvg-chno="187" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Seattle Seahawks vs Denver Broncos | English (STRMGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Seattle Seahawks vs Denver Broncos | English (STRMGATE)
-#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401872995
+https://webcast-origin.b-cdn.net/bcdn_token=wGuVNmUK7P2cImdyfHlbfRr_MU3i33rcvV64L3nq9a4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGpUxEISKzryIOuVpSJQREE%2F&expires=1792152131/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGpUxEISKzryIOuVpSJQREE/177.m3u8
+#EXTINF:-1 tvg-chno="208" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Chargers vs Chiefs (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Chargers vs Chiefs (WEBCAST)
+#EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://instreams.xyz/live3/tv401872995/index.m3u8?st=fHqW2XkG4DtupHRBWtbZ_A&e=1792130420
-#EXTINF:-1 tvg-chno="261" tvg-id="Live.Event.us" tvg-name="[National Basketball Association ] Oklahoma City Thunder @ Houston Rockets (TIMSTRM)" tvg-logo="https://8b98016b.imgggre.pages.dev/nba-401908622.png" group-title="Live Events",[National Basketball Association ] Oklahoma City Thunder @ Houston Rockets (TIMSTRM)
-#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/0cj2ds3f-9771
+https://webcast-origin.b-cdn.net/bcdn_token=-2jG1Y8LkQcZqRt2KdmsQBpLBmvhP0__bwEFRzIUjW0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGYzREOrwb64i-GZApwqBnh%2F&expires=1792152132/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGYzREOrwb64i-GZApwqBnh/59.m3u8
+#EXTINF:-1 tvg-chno="209" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Cowboys vs Packers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Cowboys vs Packers (WEBCAST)
+#EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://judiaslevels.embeds.gay/main/secure/2379d47140f05421bbe3874a13369060aec3c64b0a69aceda3c7d907d5620b1d/1792125006/nba-401908622.m3u8
-#EXTINF:-1 tvg-chno="262" tvg-id="NFL.Dummy.us" tvg-name="[National Football League] Seahawks @ Broncos (TIMSTRM)" tvg-logo="https://8b98016b.imgggre.pages.dev/nfl-401872995.png" group-title="Live Events",[National Football League] Seahawks @ Broncos (TIMSTRM)
-#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/2wpp4rr5-4427
+https://webcast-origin.b-cdn.net/bcdn_token=_9PkjqH0C5Fuf7IUwG8NH4Th95jTg5jylyUmNBzaZNA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwy6KsgV7UytYr9vH_mmMU%2F&expires=1792152132/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGwy6KsgV7UytYr9vH_mmMU/69.m3u8
+#EXTINF:-1 tvg-chno="210" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Jets vs Patriots (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Jets vs Patriots (WEBCAST)
+#EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://judiaslevels.embeds.gay/main/secure/654009628e9b4b0f6318a3b6dc09616a34471cb47e4c104c8fa6b081a2e783d1/1792125006/nfl-401872995.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=Gfm7OmRDblpnv_F-xl8JTBV9jjv1pgFayTiboHUd_Po&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFDTOt84Hw5ZtyqHpEYGHhL%2F&expires=1792152129/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFDTOt84Hw5ZtyqHpEYGHhL/234.m3u8
+#EXTINF:-1 tvg-chno="211" tvg-id="Football.Dummy.us" tvg-name="[NFL] NFL Network (DAMITV)" tvg-logo="https://static.ppvservices.st/assets/thumb/5ed7ea60fe8e3842203b0741187f0fd7-thumbnail.jpg" group-title="Live Events",[NFL] NFL Network (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=nfl-network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/streamed/admin/ppv-nfl-network/2/playlist.m3u8?tk=F52m9Cbgr2mN39UwygGYcw&e=1792195206
+#EXTINF:-1 tvg-chno="212" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Panthers vs Eagles (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Panthers vs Eagles (WEBCAST)
+#EXTVLCOPT:http-referrer=https://nflwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://webcast-origin.b-cdn.net/bcdn_token=sIppeyOUZPG_BpZ4n_sasHb_xZXrhxRo1XTn5FXBjE0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEuRxSIvCE3gUaR1lZPQJwR%2F&expires=1792152128/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEuRxSIvCE3gUaR1lZPQJwR/63.m3u8
+#EXTINF:-1 tvg-chno="213" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Ravens vs Browns (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Ravens vs Browns (WEBCAST)
+#EXTVLCOPT:http-referrer=https://nflwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://webcast-origin.b-cdn.net/bcdn_token=CQfQTb2ygTGEEwa3g0sJEUM0NDbX3_yrPoWRHB0v2WM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY9Rc2aFtXHSNWREWFuVLy%2F&expires=1792152128/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGY9Rc2aFtXHSNWREWFuVLy/227.m3u8
+#EXTINF:-1 tvg-chno="214" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Saints vs Giants (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Saints vs Giants (WEBCAST)
+#EXTVLCOPT:http-referrer=https://nflwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://webcast-origin.b-cdn.net/bcdn_token=IHb70dasqb5k5EvGKQxCPlUnH5QwPu77y-otr7fmnDM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHL8l4L_5ZbXxs8qqgrRnWm%2F&expires=1792152129/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHL8l4L_5ZbXxs8qqgrRnWm/65.m3u8
+#EXTINF:-1 tvg-chno="215" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Steelers vs Buccaneers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Steelers vs Buccaneers (WEBCAST)
+#EXTVLCOPT:http-referrer=https://nflwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://webcast-origin.b-cdn.net/bcdn_token=mmHNji0ve8hu_-Ym5BuT0CfnIi_CWMwYwbpfxoj1kQE&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGlOagrCfxhVZL0huekXE8r%2F&expires=1792152129/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGlOagrCfxhVZL0huekXE8r/56.m3u8
+#EXTINF:-1 tvg-chno="216" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Texans vs Jaguars (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Texans vs Jaguars (WEBCAST)
+#EXTVLCOPT:http-referrer=https://nflwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://webcast-origin.b-cdn.net/bcdn_token=xZbBCcJ4k7j2KnaYGQq6xR6_3CtJpYLGOoypQlA_O08&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH78SxmvhIoNvW3tRxtKbTs%2F&expires=1792152127/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhH78SxmvhIoNvW3tRxtKbTs/66.m3u8
+#EXTINF:-1 tvg-chno="217" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Titans vs Colts (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Titans vs Colts (WEBCAST)
+#EXTVLCOPT:http-referrer=https://nflwebcast.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://webcast-origin.b-cdn.net/bcdn_token=FYxNGbNTZSVM_zAq3niYr75AwQF0-WjohFQUHF0VDYk&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFeh_9ovTu2qoV--rhAa4zW%2F&expires=1792152130/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFeh_9ovTu2qoV--rhAa4zW/60.m3u8
+#EXTINF:-1 tvg-chno="258" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis ATP] Tennis ATP Shanghai (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tennis ATP] Tennis ATP Shanghai (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/NUUUQQ.m3u8
+#EXTINF:-1 tvg-chno="259" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis WTA] Tennis WTA Wuhan (FAWA)" tvg-logo="https://files.catbox.moe/q8ljra.png" group-title="Live Events",[Tennis WTA] Tennis WTA Wuhan (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.50/hls/BUUU.m3u8
+#EXTINF:-1 tvg-chno="260" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis] Tennis Channel (DAMITV)" tvg-logo="https://streamed.pk/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp" group-title="Live Events",[Tennis] Tennis Channel (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~admin-tennis-channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/streamed/admin/admin-tennis-channel/2/playlist.m3u8?tk=F52m9Cbgr2mN39UwygGYcw&e=1792195206
