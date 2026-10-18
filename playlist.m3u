@@ -14,7 +14,7 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" group-title="",Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" tvg-logo="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&h=270" group-title="",Cozi TV
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb37f/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzdmOjE3OTIzMTQwMDQxMTQ6Y2RubGl2ZXR2LnR2OmNlMDIxOGQ5NzhlMjE4MGYuNGUyNjQzNjg3N2RlZmE0OTJlOTM5MDk4YzVjNjJjMmY3MDgyYTE2YzhhZjljYmIwOTI0YjNjZTQyNGM3MDViYQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb37f/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzdmOjE3OTIzMzAyMDM0ODE6Y2RubGl2ZXR2LnR2OjliMDMyZTc0ZDAxODBjYzcuMWFhYWFkYTkyZjhlOWNhOGE3M2NiYmNlM2M0NDlkY2JkNTk2MmY3NWM3NzMzZTQ5OWZmODllOWFkYjIzN2QyYw
 #EXTINF:-1 tvg-chno="9" tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="TV",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="TV",BBC America
@@ -70,7 +70,7 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="TV",Fox Sports 2
 https://cache0.wonvt.st/live/13r6cob1fh05tc1261qhx/master.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="Freeform.HD.us2" tvg-name="Freeform TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="TV",Freeform TV
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb225/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjI1OjE3OTIzMTQwMDUxMzk6Y2RubGl2ZXR2LnR2OmFkZDY1ZmI4NTIyZDUzYTEuNmQyYWI4OThmNzg5M2JiOTQyYWZhY2Y5YTM1OGZkN2UzYTMwZWE4MzJmYjIzMzE2N2ZhNWI5MWNiYzIyZWRlNA
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb225/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjI1OjE3OTIzMzAyMDQ0MDM6Y2RubGl2ZXR2LnR2OjM0NmEwNTA2MzI0OTYxNjkuNzMzYWNjM2VjOWI2YzliOTEyM2U2Zjc2MzZmMGQ1NTQ4MDQ5MzU2NjU1ZWZlYmZjYzg3OWU3MTA2OWI5ZjAwZQ
 #EXTINF:-1 tvg-chno="59" tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="TV",FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="TV",FX
@@ -86,19 +86,19 @@ https://cache0.wonvt.st/live/091cvyx0d5ekhm1kkjtwa/master.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="TV",Hallmark Channel
 https://cache0.wonvt.st/live/01azwpa0kuthhd0dqgs1l/master.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="TV",Hallmark Mystery
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3a1/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2ExOjE3OTIzMTQwMDU3NTc6Y2RubGl2ZXR2LnR2OjRjNWI5ZmIxZjQ4ZjViMjAuMDU4YTk3ODM4NmRhYTQ5NjcxMDZjNjI3OGE5N2MzN2M1ZGYxNTE3ODQzYWY2M2NiZDBmMmU0NmIzNGE3NDNhNg
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3a1/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2ExOjE3OTIzMzAyMDUwMTU6Y2RubGl2ZXR2LnR2OjhhM2FmY2Q3OTNhNzA1MjcuZTQ3ZTgxNjAwM2U0NWEyNzg3MWE3ZDIzOGU1ODVmYmE4ZThhZTgyMDJkNzhhOTM2YTE4ZTMyMmM1N2ZhMjQxMQ
 #EXTINF:-1 tvg-chno="71" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
 https://cache0.wonvt.st/live/0vyvl7y1gwwplb0m12enw/master.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="TV",HBO 2
 http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="TV",HBO Comedy
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb234/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjM0OjE3OTIzMTQwMDU4ODU6Y2RubGl2ZXR2LnR2OjA4MWE0Y2E5OTAzYjg5MmIuZTU4NDAyYjY3OTdlZTJiZDZjNDA2ZDYyODg0NGVmYjZmOGY2MDFkNDgwOWI2MTVhODNhYzA5NzM1ZTdmMmEzZQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb234/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjM0OjE3OTIzMzAyMDUyMTc6Y2RubGl2ZXR2LnR2OjAzZjNjNjZjODRkZThmNzguYTExYmVjNDgwNzIzYmYzZThjOGZiZTg4MjEwNDViNDc1M2FiNjYzNTljNmM0ZjkxMmFjZjczOGMyMWIyMTA1OA
 #EXTINF:-1 tvg-chno="75" tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="TV",History Channel
 http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1 tvg-chno="76" tvg-id="HLN.HD.us2" tvg-name="HLN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="TV",HLN TV
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 #EXTINF:-1 tvg-chno="77" tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png" group-title="TV",INSP
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb245/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjQ1OjE3OTIzMTQwMDYwNTY6Y2RubGl2ZXR2LnR2OjFiMDljNDE5NTRiYTBlNDUuZTBjNjZjYzM3YzM3Nzg0MDU4ZGQ2YzM5YjMzNGJjNWNmM2YwZjZiZDY2MTU4MGRhZmNmZDJkZWVmZTRkNzE5MQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb245/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjQ1OjE3OTIzMzAyMDU0MzY6Y2RubGl2ZXR2LnR2OjYyNzI0OTVkYzY0MWM2MzguYTM3OWM1ZjEwMmY0ZGUwMWViM2IzMDJkOTg1M2RlZWU3YzhmNjNiZmVlMDYyNGU3MGMyZjI5YmE5YTEzZWQzZA
 #EXTINF:-1 tvg-chno="79" tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="TV",ION TV
 https://pb-xhb3ic8b61whm.akamaized.net/Ion_US_6.m3u8
 #EXTINF:-1 tvg-chno="80" tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24292_dark_360w_270h.png" group-title="TV",ITV1
@@ -106,11 +106,11 @@ http://176.65.153.4:4004/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="Investigation Discovery" tvg-logo="http://dtil.tmsimg.com/assets/s65342_ll_h15_ac.png?w=360&h=270" group-title="",Investigation Discovery
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsir_S5ZU32WyMothKzwEQP/m3u8
 #EXTINF:-1 tvg-chno="81" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="TV",Lifetime
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb247/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjQ3OjE3OTIzMTQwMDY0NzQ6Y2RubGl2ZXR2LnR2OjZmNGY5NTcyMDY2YzMzM2MuYmI2ZGIxNTE2YzFkMTRiMzA5NjU3ZWRmZDU5MGNkNDU1OGY3YzgzNjk4NTZkMmM2Y2M5MzVkMTFjNTU0YTQxYQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb247/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjQ3OjE3OTIzMzAyMDU4Mzc6Y2RubGl2ZXR2LnR2OmIyM2YzYTEwNmE1ZDM3ZjUuNDkxNjM1NzRlZTE0NjA5NzViYzFkNjMwYWE1Njk1YTc4MDM3ZWMwODYxOGE5ODQ5NTI3NGIwNTc4NTgxYWQ4Zg
 #EXTINF:-1 tvg-chno="82" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="TV",Lifetime Movie Network
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3bf/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2JmOjE3OTIzMTQwMDY2NzI6Y2RubGl2ZXR2LnR2OjA1YjEzOWEzYmI4NTVjMzAuYWNmZWRhZGU1NjI4YTY3YzJkZTMzMzdjY2Y1NWVhZTdhM2UxODZmZjAyZmJjOTE1ZDE5NzZlOWNlMGM5ZjFjOQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3bf/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2JmOjE3OTIzMzAyMDYwNDc6Y2RubGl2ZXR2LnR2Ojg0ZDUxODViMzJhNGM2N2IuMTk4MjE3MTRmNGVmZTc2MmU2OGQ1ZmY4ZjQ5M2UzNjc3Y2M1NTdmZGM2NmRkMDhjNzk3ODc4NzIzOGZhOWQzMw
 #EXTINF:-1 tvg-chno="84" tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="TV",MLB Network
-https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5cf/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3OTIzMTQwMDcyOTA6Y2RubGl2ZXR2LnR2OjI4NGM5M2ZmYmYwYmExNTcuMTNhZmQzMTdmZjMzM2ZmYTYwMzYwZGYwNWUzZjU2NjFhMDc2NTk4MTMxZDQ1ODk4M2Q5N2M4ODg1MmQ4ZWFiZQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5cf/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWNmOjE3OTIzMzAyMDY2NTM6Y2RubGl2ZXR2LnR2OmFjNDM3ZDc0MTRiNGRkOTQuZGZjZmUwN2UzOGQ4YjNhZDZkOTI0ZjViNTRiOTFiYmRkMDAxYWZkZDdkMTY0Yzk3OWJiODdjMjZiODk4MWQ0Nw
 #EXTINF:-1 tvg-chno="87" tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="TV",MSNBC
 http://40.160.24.53/MSNBC/index.m3u8
 #EXTINF:-1 tvg-chno="88" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="TV",MTV
@@ -136,21 +136,21 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="TV",Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="109" tvg-id="POP.HD.us2" tvg-name="Pop TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_dark_360w_270h.png" group-title="TV",Pop TV
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb269/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjY5OjE3OTIzMTQwMDgxMDM6Y2RubGl2ZXR2LnR2OmYzMzgxMjJjMDc0NmFmYWMuZDhhMGYxYzE0ODZmY2MxNTkzNGE4MzhmNmYwYzZlMjEzY2YwNzNjODY0ZTUxYTMxMTQ3NDkzZGQxNjkzOGQ1MQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb269/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjY5OjE3OTIzMzAyMDc0NzM6Y2RubGl2ZXR2LnR2OjNkOGIyYTIxZGNjYmYxNzQuNWYyODE0OGExNGQ3MDkwMjY4YjAwZmY1ZmRjOTViY2FiY2JhNGU2YTRhMDg5NGFiY2YwNTJjYmNmZGVhYmQ0MQ
 #EXTINF:-1 tvg-chno="112" tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68385_dark_360w_270h.png" group-title="TV",Reelz Channel
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3e4/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2U0OjE3OTIzMTQwMDg3MjA6Y2RubGl2ZXR2LnR2OjM4NzBkZjViZjU5NTkwOGYuZDAwNmY2ODk3MTc4MzFiZDRiZGEzZTQ0MDQ1M2VlNGQyNzczODQ3MDY3MDQ5ZDZlODA3M2Y3YmMwN2M4NWYxNQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb3e4/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiM2U0OjE3OTIzMzAyMDgwODY6Y2RubGl2ZXR2LnR2OjM3MDI0YzExYmNiZjEyMWUuYzE1NDcxM2ZiYzZmYTY0NjI3MGE2OTU4Y2ZmYWIyN2U4ODQwODUyYmFlYjZjYTc3NTg2ZWM1MDY1YTE5NThmZA
 #EXTINF:-1 tvg-chno="113" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="TV",SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="TV",Showtime
 https://cache0.wonvt.st/live/1az2pv01wqk8zi11yns1c/master.m3u8
 #EXTINF:-1 tvg-chno="115" tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="TV",Showtime Extreme
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb275/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjc1OjE3OTIzMTQwMDg5MjM6Y2RubGl2ZXR2LnR2OjM4NGZkZjM2MGIzZDkwNzAuZTU1MDhmNTliMjU0MjEwNjYyZDVhYzAyNDExNjBmMWM0NzcyMmJjY2ZhMTAwNzllY2I2ZjE4OTg1MDY5ODgyYQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb275/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjc1OjE3OTIzMzAyMDgyODk6Y2RubGl2ZXR2LnR2OjVkYTBjMTEyNjg0ODI0ZGEuMjNmN2E1OWE0ZGJiYmM4YzE4MmQxMTcxZjg0NzZkODllNTlhNWUxMjY1ZGEzZGI0NmY4NTk0YjY2Y2ZkN2I5YQ
 #EXTINF:-1 tvg-chno="119" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="TV",Smithsonian Channel
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb27d/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjdkOjE3OTIzMTQwMTA2MTg6Y2RubGl2ZXR2LnR2OjVlOTVhYjk0NThjOWZjZjAuMDlhNzhkODY2ZDkzODFiOTY5NDJhZWEyMmZkMWRmOWRlOGUwMGM5YjgzMzcyODQ5ZmFlNmMxMzE3MTYxMmY0Ng
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb27d/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjdkOjE3OTIzMzAyMTAyMzc6Y2RubGl2ZXR2LnR2OjNmZjc3OGQ5ZDFjNjk3MjUuMWRkN2JmOTM1Njg4MDUxYTkxNzFkYTg1OTdkOTJhMTFhYjdjY2Q1MWMzMGJkNTExY2ZlZGE4ZDlkZjM2N2Y2OQ
 #EXTINF:-1 tvg-chno="129" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="TV",Starz
 https://cache0.wonvt.st/live/16fgsju1pnic1t0n4pa9a/master.m3u8
 #EXTINF:-1 tvg-chno="130" tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14764_dark_360w_270h.png" group-title="TV",Starz Encore Classic
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb287/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg3OjE3OTIzMTQwMTE1NTA6Y2RubGl2ZXR2LnR2OmJkYmE5NjQ3MWMwMTZkNmUuYzNkOGI4NzQ0ZTAxMjdkYmRkNjM2MTQ4MmU1OWM5Yjk3NDIyNDcxMjEwMGFhZDEzZTUyY2RmNDVhMjgxMjQ1ZA
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb287/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjg3OjE3OTIzMzAyMTEyOTc6Y2RubGl2ZXR2LnR2OjMwMzVhZTM1MGM3YWEyMDcuNGM5MDllMzkwOGVkZjM1MjBlYjkyYThiYWViODIyYWMwOWQxZjIzZTFiMzcwNDFlZGE0NTc4MDIyMGI3NTdjNQ
 #EXTINF:-1 tvg-chno="132" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="TV",Syfy
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-chno="133" tvg-id="TBS.HD.us2" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="TV",TBS
@@ -168,9 +168,9 @@ https://cache0.wonvt.st/live/0n9pw8q0xegbt00ff92x6/master.m3u8
 #EXTINF:-1 tvg-chno="142" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="TV",Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-chno="143" tvg-id="TV.Land.HD.us2" tvg-name="TV Land" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="TV",TV Land
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb2a3/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMmEzOjE3OTIzMTQwMTM2Mzk6Y2RubGl2ZXR2LnR2OjQzZmFlM2I2OTJlMjUzMWIuYzEyNGMxNjdlNmIyNjhkZTljNzRmNmEwZTgwYjY1NDgwZjQxNzk5NTc4ZDYwMjE5ZTM3MmJiMzBlNDUyYzI4NA
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb2a3/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMmEzOjE3OTIzMzAyMTM5MjI6Y2RubGl2ZXR2LnR2OjkxNjYyOWUwNDczNGEyNDIuODZmOTJkNTc0MzdjNGI5OTdhNWZiYTc2MjUxZGJkMjFiZmIxMjE1YTFkMDk3MjUyZWU0YWU1N2ZjOWY1M2VjYw
 #EXTINF:-1 tvg-chno="144" tvg-id="TV.ONE.HD.us2" tvg-name="TV One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="TV",TV One
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb2a6/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMmE2OjE3OTIzMTQwMTM3Njc6Y2RubGl2ZXR2LnR2OjAwZDFjM2Y5OWRlNWFiOWMuNWNiMGQ3OWNiYzUyYjJiOTMwM2Q2NzZjMDg1MzI4OTEwN2NkMWQ1ODE0ZjYzNDk4MGI2NjljNDkxNDgyNzZlOQ
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb2a6/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMmE2OjE3OTIzMzAyMTQxMjg6Y2RubGl2ZXR2LnR2OjYxNDdjYTAyM2E1NWQyOGMuN2Q3MGE4YzY5NjYzZmU1ZGMzMWFlNzgzOWQ0ZTY4YThhYzkzM2I4MWVkMGFjMjNlZjJhZDEyYWNjNzY2NzhlOA
 #EXTINF:-1 tvg-chno="145" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="TV",USA Network
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #EXTINF:-1 tvg-chno="146" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="TV",VH1
