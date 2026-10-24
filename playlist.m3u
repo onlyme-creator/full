@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-chno="1" tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="TV",A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="WABC-DT.us_locals1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="TV",ABC
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc2984/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyOTg0OjE3OTI4NjMwMDIzNTQ6Y2RubGl2ZXR2LnR2OjEzZDdiMTE4OWFhM2I5Y2QuNGNlN2NhNzBjNDNkMDlmNmE2ZmI0NTI4MmYxNGM1MTZhNWE4MDEyNWIyZGJjNTVjMDVhMjYzNWQ5YWFmZDM4Mg
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpuJIfprpatuIR__akYsM3xA/m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="AMC.HD.us2" tvg-name="AMC" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="TV",AMC
@@ -14,13 +14,13 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&h=270" group-title="",Comet TV
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" tvg-logo="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&h=270" group-title="",Cozi TV
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc2b23/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyYjIzOjE3OTI4NjMwMDM1NzY6Y2RubGl2ZXR2LnR2OjQzOTQ3ZjVjYTlkZmE1YzcuYTk5MjIwMDU5NmYyZjdlMmJmNTFkMzgzNjA0ZWEwZTM4MTliNjM4ODI4ZmQ4NGFlMjY0ZjliNjA1YmJkYmNhZA
+http://173.225.32.123/Cozi-2358/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="TV",AXS TV
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="BBC.America.HD.us2" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="TV",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="BET.HD.us2" tvg-name="BET" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="TV",BET
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc283e/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyODNlOjE3OTI4NjMwMDI3NTc6Y2RubGl2ZXR2LnR2OmE0NDFiYjUwNWIxYTllYjguYmQyMzBjZTg4MGZiNDEyZWI4YmIyYzJkNGYwZWVjYzM0YjlkYWZlYTY1NDQ0YzJiOWU2M2JmOWQ3NWFkMGFhMw
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpvCoYjBVU8b83s5he0_4tUW/m3u8
 #EXTINF:-1 tvg-chno="17" tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="TV",Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-chno="18" tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="TV",Bounce TV
@@ -29,12 +29,8 @@ http://23.237.104.106:8080/USA_BOUNCE/tracks-v1a1/mono.m3u8
 http://41.205.93.154/BRAVO/index.m3u8
 #EXTINF:-1 tvg-chno="20" tvg-id="BUZZR.Stream.us2" tvg-name="Buzzr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="TV",Buzzr
 https://buzzrota-ono.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="WCBS-DT.us_locals1" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="TV",CBS
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc251a/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyNTFhOjE3OTI4NjMwMDI5NTk6Y2RubGl2ZXR2LnR2OjkwMTFkNDkxNDY4YmE5Y2EuOWU2MGY0ZmFiNGRiMDhlOTZmMTI4OGI2MGYzODczZTE4ZTBiNDYzMmYwN2ZmZmJmZDhhOWFlMzllZmYxNDRmOA
 #EXTINF:-1 tvg-chno="24" tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News 24/7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" group-title="TV",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="TV",CBS Sports Network
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc2b62/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyYjYyOjE3OTI4NjMwMDMxNjg6Y2RubGl2ZXR2LnR2OjYzNTRhNGUzZTk3YmUyMzguNDVjZDQ1ZDkyZjNiYzBmNzhhYzNlMWY5MmIyZWRiMzMzMTI4OWMxOGM5MTZmNzA0ZTYzYzBkNWFkY2NkZTkzOA
 #EXTINF:-1 tvg-chno="27" tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="TV",Cinemax
 http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="CNN.HD.us2" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="TV",CNN
@@ -52,11 +48,9 @@ http://212.5.144.156:8080/discovery/index.m3u8
 #EXTINF:-1 tvg-chno="44" tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="TV",Disney Channel
 http://212.5.144.156:8080/disney/index.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="TV",Disney XD
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc29af/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyOWFmOjE3OTI4NjMwMDQyOTk6Y2RubGl2ZXR2LnR2OmFiMGU0YTdjN2ViM2VjMGQuOWU5Nzk2MWYwMGFmNzM4YmI0YWZlYTJkODM3MGY1NDBmMDE2ZDgxMTc0MWZlZTY5NDcxOTUzNGQ1YTA3ZmZkYQ
+http://23.237.104.106:8080/USA_DISNEY_XD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="ESPN.HD.us2" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="TV",ESPN
 http://stream.bottledesk.net/6500/index.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="ESPNEWS.HD.us2" tvg-name="ESPN News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="TV",ESPN News
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc2bbe/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyYmJlOjE3OTI4NjMwMDQ1MTA6Y2RubGl2ZXR2LnR2OjNmODI1NDk3ZmM1MTY1ZTEuNzFkNjVkMzBhMmZjOGU2N2ZjYjVjYjg5ZWRhYzVkNjQ4ZjYzOTRmYTVhODc2YWRjNTI1ZTNiYmMyMGI5ZmI3NQ
 #EXTINF:-1 tvg-chno="49" tvg-id="ESPNU.HD.us2" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="TV",ESPN U
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-chno="50" tvg-id="ESPN2.HD.us2" tvg-name="ESPN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="TV",ESPN2
@@ -65,22 +59,20 @@ http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 http://stream.cammonitorplus.net/1752/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="TV",Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="Fox Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33178_dark_360w_270h.png" group-title="TV",Fox Sports 2
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc2cb9/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyY2I5OjE3OTI4NjMwMDUxMjI6Y2RubGl2ZXR2LnR2OjE2YzVjYjBkOTNiODRjNjAuZjNkN2ZhMTljYmI4OWMwODg3NDdlZDk3ZGI0MzNhNzhkZGJmNWFjZWZkYjY2NmQ0NzVkYzFiZWNhZGQ1ODBiYQ
 #EXTINF:-1 tvg-chno="59" tvg-id="Fuse.HD.us2" tvg-name="FUSE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="TV",FUSE
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="FX.HD.us2" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="TV",FX
 https://tvsen3.aynaott.com/jTqkTE8W/index.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70253_dark_360w_270h.png" group-title="TV",FX Movie Channel
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc29be/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyOWJlOjE3OTI4NjMwMDUzMTk6Y2RubGl2ZXR2LnR2OmRkYzkxYTcyYTMwNjU3YjYuMTg1MjVhYjAyZWI1NDZlYzAxYjJjNjg1YTMyNmMyZWE2ZTM4ODJjYzZhYWRmZWNkYzQ1OGUzM2M2NTUzNzQ1Mg
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="FXX.HD.us2" tvg-name="FXX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" group-title="TV",FXX
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc29bf/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyOWJmOjE3OTI4NjMwMDU1MjE6Y2RubGl2ZXR2LnR2OjNkMjYxZjJlOTk2YmRkYzcuOTRlMTc1MDZlOTE3ZmJkYjQ5NWYzYTFhYzUwMjE1N2JhMjA2ZDc5ZjhjZTlkMDJhNmNjMzgwODNmYTNmODc3ZA
+http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="64" tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="TV",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-chno="67" tvg-id="Grit.us2" tvg-name="Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="TV",Grit TV
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc2b43/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyYjQzOjE3OTI4NjMwMDU5MzQ6Y2RubGl2ZXR2LnR2OjQ1NDdiNGZlYWJiMzYxNTcuNGViY2I0Mzg1ZmNmOTQ2ZDJmYjA2ZGNiZDA5M2VjYmU3OTVlZjViMmI2YWZkMDIwNTAxZGE3NGNiYmQyOWRhMA
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/40583.m3u8
 #EXTINF:-1 tvg-chno="68" tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="TV",Hallmark Channel
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc29c7/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyOWM3OjE3OTI4NjMwMDYxMzY6Y2RubGl2ZXR2LnR2OmFiODViMjc2YTJiMjEzMjEuYWQ5ZWQwMTIzOTkyMDgzNzM4MDI1MWZjYzk2YWM5MzhjZmRjMzBjMDc1NDAzNDY0Yjc4NWMyODNkZTU3N2UwMw
+http://23.237.104.106:8080/USA_HALLMARK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png" group-title="TV",Hallmark Mystery
 http://41.205.93.154/HALLMARK/index.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="TV",HBO
@@ -88,25 +80,21 @@ http://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="TV",HBO 2
 http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="TV",HBO Comedy
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc29c9/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyOWM5OjE3OTI4NjMwMDYzMzg6Y2RubGl2ZXR2LnR2OjM2NWU4OWJhNzMwYzdmZjAuNTg0NzgwNWEzZGFlOTc3NTNkOTdiMDViMDZmZDgzNDVmYjBhZjM1M2MxOTY2Y2E3ODYwNjEyNThjOTlhYTZjMw
+http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="75" tvg-id="History.HD.us2" tvg-name="History Channel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87679_dark_360w_270h.png" group-title="TV",History Channel
 http://212.5.144.156:8080/history/index.m3u8
 #EXTINF:-1 tvg-chno="76" tvg-id="HLN.HD.us2" tvg-name="HLN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="TV",HLN TV
 http://23.237.104.106:8080/USA_HLN/index.m3u8
-#EXTINF:-1 tvg-chno="77" tvg-id="INSP.HD.us2" tvg-name="INSP" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png" group-title="TV",INSP
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc29da/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyOWRhOjE3OTI4NjMwMDY3NTE6Y2RubGl2ZXR2LnR2OmFiZjY2N2VmMjY5ZGNmM2UuMzVjZDIzNzI2M2Q0ZTJhZjY3YmI4Yzg3NzYxZDFlYThmYjU2NTE0MjMzNmU5ZjYyYjkwMTU3ZjhhOTAzODk0Zg
 #EXTINF:-1 tvg-chno="79" tvg-id="ION.Television.HD.us2" tvg-name="ION TV" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="TV",ION TV
 https://pb-xhb3ic8b61whm.akamaized.net/Ion_US_6.m3u8
 #EXTINF:-1 tvg-chno="80" tvg-id="ITV1.HD.uk" tvg-name="ITV1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24292_dark_360w_270h.png" group-title="TV",ITV1
 http://176.65.153.4:4004/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="Investigation Discovery" tvg-logo="http://dtil.tmsimg.com/assets/s65342_ll_h15_ac.png?w=360&h=270" group-title="",Investigation Discovery
 https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIpsir_S5ZU32WyMothKzwEQP/m3u8
-#EXTINF:-1 tvg-chno="81" tvg-id="Lifetime.HD.us2" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="TV",Lifetime
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc29dc/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyOWRjOjE3OTI4NjMwMDcxNjU6Y2RubGl2ZXR2LnR2OjM5ZjJhZjFiMzZjMTYwYzQuNThjNzg5Y2JjNDdlOWNlMmY5YmNjZDlkMzliZTlkODEyN2UyMjRjYzM0ZjFjNTZiYTg5NGI0YWFjODQ5MjMzZA
 #EXTINF:-1 tvg-chno="82" tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="TV",Lifetime Movie Network
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc2b67/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyYjY3OjE3OTI4NjMwMDczNzA6Y2RubGl2ZXR2LnR2OmUzZjM4ZTU3ODE1MDU2NzkuMDk2ZjY1NmI3NjlmNmQyYWMzZmJmOWViOGFmY2ZmZWJlZWUyMDg3NzkxMzg1Y2ZmODc1MzI2YTNlNjQzOThiNg
+http://23.237.104.106:8080/USA_LMN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="84" tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="TV",MLB Network
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc2cc3/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyY2MzOjE3OTI4NjMwMDgxODQ6Y2RubGl2ZXR2LnR2OjNjM2ZhYTUzMWJkY2Q0NDAuNjIxOGJiYWJmMDk0OWZmMmJmNjIwYWQyODQyNDQ5NTczZDgyZDU4YjMwZjdlOGIzZDk0NTJkY2E3YzY1OGI2Mg
+https://pb-2y9ox4r1fy550.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-chno="87" tvg-id="MSNBC.HD.us2" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="TV",MSNBC
 http://40.160.24.53/MSNBC/index.m3u8
 #EXTINF:-1 tvg-chno="88" tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="TV",MTV
@@ -116,13 +104,11 @@ http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-chno="90" tvg-id="NBA.TV.HD.us2" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="TV",NBA TV
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-chno="91" tvg-id="WNBC-DT.us_locals1" tvg-name="NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10991_dark_360w_270h.png" group-title="TV",NBC
-https://cdnlivetv.tv/secure/api/v1/6adcae5d2d4a99e073bc1fed/playlist.m3u8?token=NmFkY2FlNWQyZDRhOTllMDczYmMxZmVkOjE3OTI4NjMwMDg1ODk6Y2RubGl2ZXR2LnR2OmE3NjY0YzAzN2E2ODdjMWQuN2FhYWY5NDIyNDZlZTQ3NDIxNWRjYWExNjQ0MDljYmVkZTY4YjM2YzI3MDM0NTdlMmIxMjcxZmE5YTRiMjhlMg
+https://avro.to:443/play/meV7AsM0-WeLaHcukRw5lZaQGCPTneA1MO4hLbwgIps7B-ZZXKR5Xu9pX4GqQn5W/m3u8
 #EXTINF:-1 tvg-chno="95" tvg-id="a90a91570ce0536cbb22b591ad7e0da2" tvg-name="NBC Sports NOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" group-title="TV",NBC Sports NOW
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814624/hls/master.m3u8?ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_coppa=0&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_h_x_country=US&ads._fw_is_lat=%5BLMT%5D&ads._fw_player_height=1080&ads._fw_player_width=1920&ads._fw_us_privacy=1YN-&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads.caid=NBCUSports&ads.csid=tcl2_us_nbcusports_ssai&ads.genre=Sport&ads.xumo_channelId=88814624&ads.xumo_channelName=NBCUSports&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_ifa=%5BIFA%5D&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.xumo_streamId=88814624&declaredCC1Language=en&includeAssetTags=true
 #EXTINF:-1 tvg-chno="99" tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nfl-network-hz-us.png" group-title="TV",NFL Network
 https://tvsen6.aynaott.com/nfl/index.m3u8
-#EXTINF:-1 tvg-chno="100" tvg-id="NHL.Network.HD.us2" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="TV",NHL Network
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc2cd6/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyY2Q2OjE3OTI4NjMwMDk4MjM6Y2RubGl2ZXR2LnR2OjJmYjc0Y2VlYmY0NTFmODIuM2YwZGRjODMyNTI2NzMyMjRkY2UzOGFhY2UwMzI3YzdhMGMwYzg1Nzc2MmY4NjI3NjgyMmViY2M3YjFjN2E5Mw
 #EXTINF:-1 tvg-chno="101" tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="TV",Nick Jr
 http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="TV",Nickelodeon
@@ -133,18 +119,14 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="108" tvg-id="PBS.KIDS.HD.us2" tvg-name="PBS Kids" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101364_dark_360w_270h.png" group-title="TV",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 tvg-chno="109" tvg-id="POP.HD.us2" tvg-name="Pop TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16715_dark_360w_270h.png" group-title="TV",Pop TV
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc29fe/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyOWZlOjE3OTI4NjMwMTAyNDE6Y2RubGl2ZXR2LnR2Ojc5MjIwMGNiZWJkOGNjYzkuNjg5Y2E4MWYxYWE0OTNlMzVlNTMyNmQwNzhlMmZhMGE1Y2NjM2M3YTE3MjFlMTA5MmUxYWViNDU2ZDIzYWQ3NQ
 #EXTINF:-1 tvg-chno="112" tvg-id="ReelzChannel.HD.us2" tvg-name="Reelz Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68385_dark_360w_270h.png" group-title="TV",Reelz Channel
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc2b8d/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyYjhkOjE3OTI4NjMwMTA4NDg6Y2RubGl2ZXR2LnR2OmZhZmZkYTA0NTA0YTBhMmUuZjNhNDYxYjhiMGI1YTFjOTkzZDdkNDNjZjA2NjU1NjM4NDA5MThkY2U3ZGE5NmQ3NzI4ZmExNzIzYjVjZjU3YQ
+http://23.237.104.106:8080/USA_REELZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="113" tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="TV",SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-chno="114" tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Showtime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/showtime-us.png" group-title="TV",Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="115" tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="TV",Showtime Extreme
-https://cdnlivetv.tv/secure/api/v1/6adcae5d2d4a99e073bc1f84/playlist.m3u8?token=NmFkY2FlNWQyZDRhOTllMDczYmMxZjg0OjE3OTI4NjMwMTEwNDk6Y2RubGl2ZXR2LnR2OmMyYTdlNzkxYTEwYjZlYjUuM2VhZGFkM2Q4MzIwNDkzMzc2MzQ3NDllYTQwMmM4ZTQ5YTNiOGM0YjExMzMzOGMzYmY2MWNlNjBiODJmYmZhOQ
-#EXTINF:-1 tvg-chno="119" tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58532_dark_360w_270h.png" group-title="TV",Smithsonian Channel
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb27d/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMjdkOjE3OTI3Nzg0MTM3MjA6Y2RubGl2ZXR2LnR2Ojc2OGUzZmQyMTJhYTkzOTQuYTIyNzgyZjE5ZTQyNDBmYzQwNzdlNmNlNzE2NWIzMzRhMjY3YTQ1OWE1YjlmNzg3MWY3MjNlODFhNjBiM2MwOA
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/648984.m3u8
 #EXTINF:-1 tvg-chno="129" tvg-id="Starz.HD.us2" tvg-name="Starz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12719_dark_360w_270h.png" group-title="TV",Starz
 http://23.237.104.106:8080/USA_STARZ/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="132" tvg-id="Syfy.HD.us2" tvg-name="Syfy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="TV",Syfy
@@ -159,14 +141,12 @@ http://41.205.93.154/TLC/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-chno="139" tvg-id="truTV.HD.us2" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="TV",truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:-1 tvg-chno="140" tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="TV",TSN1
-https://cdnlivetv.tv/secure/api/v1/6adcae602d4a99e073bc47f4/playlist.m3u8?token=NmFkY2FlNjAyZDRhOTllMDczYmM0N2Y0OjE3OTI4NjMwMTU5ODc6Y2RubGl2ZXR2LnR2OjYyMjc3MjFmYjFiMWNmMmMuNDkyZjk2MDY4ZGMzNWQ4OGYwM2RjZTBhN2EzY2MxNmVjZGY3MDYxZWM1YWFmODdlMzMzZDYxNDdkNTE0MWJjZQ
 #EXTINF:-1 tvg-chno="142" tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="TV",Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-chno="143" tvg-id="TV.Land.HD.us2" tvg-name="TV Land" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="TV",TV Land
-https://cdnlivetv.tv/secure/api/v1/6adcae5d2d4a99e073bc2202/playlist.m3u8?token=NmFkY2FlNWQyZDRhOTllMDczYmMyMjAyOjE3OTI4NjMwMTY5OTE6Y2RubGl2ZXR2LnR2OjA5N2E5MTA0YzY0ZDdjM2IuN2IxN2M5OWU3ODg0ZDkxMTE2NzdlYjdkMTM0ODU4ZTRkY2FkOTQ1MWM1OWZiY2NlMjBkYzczMGQ2MjhiMGY1Ng
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/614330.m3u8
 #EXTINF:-1 tvg-chno="144" tvg-id="TV.ONE.HD.us2" tvg-name="TV One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="TV",TV One
-https://cdnlivetv.tv/secure/api/v1/6adcae5e2d4a99e073bc2a3f/playlist.m3u8?token=NmFkY2FlNWUyZDRhOTllMDczYmMyYTNmOjE3OTI4NjMwMTcyMDA6Y2RubGl2ZXR2LnR2OmZhNGM5ZTQ2YzIyYmYwNDEuZjFiZjEyYjNhODlmMThlOWJiYWEzYWYxZDMzZGFiYWFhYzZlMDc1MGI1NThjMTdhMTk2MzAzNDkzM2I3OTA0YQ
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/21897.m3u8
 #EXTINF:-1 tvg-chno="145" tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="TV",USA Network
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 #EXTINF:-1 tvg-chno="146" tvg-id="VH1.HD.us2" tvg-name="VH1" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="TV",VH1
@@ -312,311 +292,471 @@ http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 http://154.12.107.98:8000/play/a08s
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="TV",USA Network (Alt)
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
-#EXTINF:-1 tvg-chno="13" tvg-id="Football.Dummy.us" tvg-name="[American Football] BYU Cougars vs. UCF Knights | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] BYU Cougars vs. UCF Knights | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="9" tvg-id="Football.Dummy.us" tvg-name="[American Football] BYU Cougars vs. UCF Knights | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] BYU Cougars vs. UCF Knights | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/JHDAJBDnjdna30.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="Football.Dummy.us" tvg-name="[American Football] Baylor Bears vs. Kansas Jayhawks | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Baylor Bears vs. Kansas Jayhawks | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="10" tvg-id="Football.Dummy.us" tvg-name="[American Football] Baylor Bears vs. Kansas Jayhawks | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Baylor Bears vs. Kansas Jayhawks | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/kjhfzua25.m3u8
-#EXTINF:-1 tvg-chno="15" tvg-id="Football.Dummy.us" tvg-name="[American Football] Boise State Broncos vs. Washington State Cougars | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Boise State Broncos vs. Washington State Cougars | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="11" tvg-id="Football.Dummy.us" tvg-name="[American Football] Boise State Broncos vs. Washington State Cougars | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Boise State Broncos vs. Washington State Cougars | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream1.pro/hls/nbekiurtghjhfza83.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="Football.Dummy.us" tvg-name="[American Football] Boston College Eagles vs. Georgia Tech Yellow Jackets | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Boston College Eagles vs. Georgia Tech Yellow Jackets | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="12" tvg-id="Football.Dummy.us" tvg-name="[American Football] Boston College Eagles vs. Georgia Tech Yellow Jackets | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Boston College Eagles vs. Georgia Tech Yellow Jackets | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream1.pro/hls/sfjnzabacah31.m3u8
-#EXTINF:-1 tvg-chno="17" tvg-id="Football.Dummy.us" tvg-name="[American Football] California Golden Bears vs. SMU Mustangs | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] California Golden Bears vs. SMU Mustangs | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="13" tvg-id="Football.Dummy.us" tvg-name="[American Football] California Golden Bears vs. SMU Mustangs | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] California Golden Bears vs. SMU Mustangs | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/bzagLHzach19.m3u8
-#EXTINF:-1 tvg-chno="18" tvg-id="Football.Dummy.us" tvg-name="[American Football] Colorado Buffaloes vs. Oklahoma State Cowboys | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Colorado Buffaloes vs. Oklahoma State Cowboys | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="14" tvg-id="Football.Dummy.us" tvg-name="[American Football] Colorado Buffaloes vs. Oklahoma State Cowboys | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Colorado Buffaloes vs. Oklahoma State Cowboys | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/jkhfsgqghjqsd85.m3u8
-#EXTINF:-1 tvg-chno="19" tvg-id="Football.Dummy.us" tvg-name="[American Football] ESPN News | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] ESPN News | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="15" tvg-id="Football.Dummy.us" tvg-name="[American Football] ESPN News | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] ESPN News | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream1.pro/hls/xscqqza8740.m3u8
-#EXTINF:-1 tvg-chno="20" tvg-id="Football.Dummy.us" tvg-name="[American Football] ESPN2 | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] ESPN2 | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="16" tvg-id="Football.Dummy.us" tvg-name="[American Football] ESPN2 | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] ESPN2 | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/okhrtofm78.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="Football.Dummy.us" tvg-name="[American Football] Eastern Michigan Eagles vs. Ohio Bobcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Eastern Michigan Eagles vs. Ohio Bobcats | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="17" tvg-id="Football.Dummy.us" tvg-name="[American Football] Eastern Michigan Eagles vs. Ohio Bobcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Eastern Michigan Eagles vs. Ohio Bobcats | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/dsqhjbjhsqd81.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="Football.Dummy.us" tvg-name="[American Football] Hawai'i Rainbow Warriors vs. Northern Illinois Huskies | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Hawai'i Rainbow Warriors vs. Northern Illinois Huskies | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="18" tvg-id="Football.Dummy.us" tvg-name="[American Football] Hawai'i Rainbow Warriors vs. Northern Illinois Huskies | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Hawai'i Rainbow Warriors vs. Northern Illinois Huskies | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/uheyztezgj34.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="Football.Dummy.us" tvg-name="[American Football] Houston Cougars vs. Utah Utes | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Houston Cougars vs. Utah Utes | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="19" tvg-id="Football.Dummy.us" tvg-name="[American Football] Houston Cougars vs. Utah Utes | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Houston Cougars vs. Utah Utes | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/hgfdshkjsqkda95.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="Football.Dummy.us" tvg-name="[American Football] Indiana Hoosiers vs. Michigan Wolverines | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Indiana Hoosiers vs. Michigan Wolverines | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="20" tvg-id="Football.Dummy.us" tvg-name="[American Football] Indiana Hoosiers vs. Michigan Wolverines | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Indiana Hoosiers vs. Michigan Wolverines | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/ojzkajnach21.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="Football.Dummy.us" tvg-name="[American Football] Iowa Hawkeyes vs. Minnesota Golden Gophers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Iowa Hawkeyes vs. Minnesota Golden Gophers | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="21" tvg-id="Football.Dummy.us" tvg-name="[American Football] Iowa Hawkeyes vs. Minnesota Golden Gophers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Iowa Hawkeyes vs. Minnesota Golden Gophers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/qsdnajbq32.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="Football.Dummy.us" tvg-name="[American Football] Iowa State Cyclones vs. Arizona Wildcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Iowa State Cyclones vs. Arizona Wildcats | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="22" tvg-id="Football.Dummy.us" tvg-name="[American Football] Iowa State Cyclones vs. Arizona Wildcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Iowa State Cyclones vs. Arizona Wildcats | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/ozeiruzhurfxcwas89.m3u8
-#EXTINF:-1 tvg-chno="27" tvg-id="Football.Dummy.us" tvg-name="[American Football] Kansas State Wildcats vs. Arizona State Sun Devils | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Kansas State Wildcats vs. Arizona State Sun Devils | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="23" tvg-id="Football.Dummy.us" tvg-name="[American Football] Kansas State Wildcats vs. Arizona State Sun Devils | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Kansas State Wildcats vs. Arizona State Sun Devils | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/jnknjfzbk35.m3u8
-#EXTINF:-1 tvg-chno="28" tvg-id="Football.Dummy.us" tvg-name="[American Football] LSU Tigers vs. Auburn Tigers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] LSU Tigers vs. Auburn Tigers | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="24" tvg-id="Football.Dummy.us" tvg-name="[American Football] LSU Tigers vs. Auburn Tigers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] LSU Tigers vs. Auburn Tigers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8
-#EXTINF:-1 tvg-chno="29" tvg-id="Football.Dummy.us" tvg-name="[American Football] Michigan State Spartans vs. UCLA Bruins | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Michigan State Spartans vs. UCLA Bruins | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="25" tvg-id="Football.Dummy.us" tvg-name="[American Football] Michigan State Spartans vs. UCLA Bruins | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Michigan State Spartans vs. UCLA Bruins | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/oipozuezeji33.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="Football.Dummy.us" tvg-name="[American Football] North Dakota State Bison vs. New Mexico Lobos | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] North Dakota State Bison vs. New Mexico Lobos | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="26" tvg-id="Football.Dummy.us" tvg-name="[American Football] NFL Network (DAMITV)" tvg-logo="https://ondemand.st/img/y/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuAQ1sFKBWSYAU2DFLABM8E9g1gDCFJMd46Tp51jwywYAE50IMmQggAxqWwgqIGMBokQIUiETqpwkHphaRSmSClYQF9bMXKaU6SnIRQYQSKbZ6YQsCS5HIXJuThdhOScCYHhyN2AXSSA.webp" group-title="Live Events",[American Football] NFL Network (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~p-nfl-network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/s/admin/p-nfl-network/2/playlist.m3u8?tk=12WuVLQUbxF2VKvgveGxow&e=1792906208
+#EXTINF:-1 tvg-chno="27" tvg-id="Football.Dummy.us" tvg-name="[American Football] North Dakota State Bison vs. New Mexico Lobos | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] North Dakota State Bison vs. New Mexico Lobos | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/fgjhvebazfhgazf94.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="Football.Dummy.us" tvg-name="[American Football] Oklahoma Sooners vs. Mississippi State Bulldogs | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Oklahoma Sooners vs. Mississippi State Bulldogs | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="28" tvg-id="Football.Dummy.us" tvg-name="[American Football] Oklahoma Sooners vs. Mississippi State Bulldogs | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Oklahoma Sooners vs. Mississippi State Bulldogs | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream1.pro/hls/hefbafbakx28.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="Football.Dummy.us" tvg-name="[American Football] Ole Miss Rebels vs. Texas Longhorns | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Ole Miss Rebels vs. Texas Longhorns | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="29" tvg-id="Football.Dummy.us" tvg-name="[American Football] Ole Miss Rebels vs. Texas Longhorns | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Ole Miss Rebels vs. Texas Longhorns | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/fghsqdgauduyagz88.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="Football.Dummy.us" tvg-name="[American Football] Oregon Ducks vs. Illinois Fighting Illini | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Oregon Ducks vs. Illinois Fighting Illini | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="30" tvg-id="Football.Dummy.us" tvg-name="[American Football] Oregon Ducks vs. Illinois Fighting Illini | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Oregon Ducks vs. Illinois Fighting Illini | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/dzjhkfazbka26.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="Football.Dummy.us" tvg-name="[American Football] Pittsburgh Panthers vs. Miami Hurricanes | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Pittsburgh Panthers vs. Miami Hurricanes | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="31" tvg-id="Football.Dummy.us" tvg-name="[American Football] Pittsburgh Panthers vs. Miami Hurricanes | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Pittsburgh Panthers vs. Miami Hurricanes | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/jkzahzadach20.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="Football.Dummy.us" tvg-name="[American Football] Rice Owls vs. Florida Atlantic Owls | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Rice Owls vs. Florida Atlantic Owls | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="32" tvg-id="Football.Dummy.us" tvg-name="[American Football] Rice Owls vs. Florida Atlantic Owls | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Rice Owls vs. Florida Atlantic Owls | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/jnzkdzjfanch23.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="Football.Dummy.us" tvg-name="[American Football] Rutgers Scarlet Knights vs. Northwestern Wildcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Rutgers Scarlet Knights vs. Northwestern Wildcats | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="33" tvg-id="Football.Dummy.us" tvg-name="[American Football] Rutgers Scarlet Knights vs. Northwestern Wildcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Rutgers Scarlet Knights vs. Northwestern Wildcats | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/ijfnakfidch22.m3u8
-#EXTINF:-1 tvg-chno="37" tvg-id="Football.Dummy.us" tvg-name="[American Football] San Diego State Aztecs vs. Colorado State Rams | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] San Diego State Aztecs vs. Colorado State Rams | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="34" tvg-id="Football.Dummy.us" tvg-name="[American Football] San Diego State Aztecs vs. Colorado State Rams | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] San Diego State Aztecs vs. Colorado State Rams | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/ioazuryeahrfvzed84.m3u8
-#EXTINF:-1 tvg-chno="38" tvg-id="Football.Dummy.us" tvg-name="[American Football] San José State Spartans vs. Nevada Wolf Pack | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] San José State Spartans vs. Nevada Wolf Pack | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="35" tvg-id="Football.Dummy.us" tvg-name="[American Football] San José State Spartans vs. Nevada Wolf Pack | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] San José State Spartans vs. Nevada Wolf Pack | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/iozauyezaioyur82.m3u8
-#EXTINF:-1 tvg-chno="39" tvg-id="Football.Dummy.us" tvg-name="[American Football] Syracuse Orange vs. North Carolina Tar Heels | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Syracuse Orange vs. North Carolina Tar Heels | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="36" tvg-id="Football.Dummy.us" tvg-name="[American Football] Syracuse Orange vs. North Carolina Tar Heels | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Syracuse Orange vs. North Carolina Tar Heels | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/dzaugyvdgazc90.m3u8
-#EXTINF:-1 tvg-chno="40" tvg-id="Football.Dummy.us" tvg-name="[American Football] Tennessee Volunteers vs. South Carolina Gamecocks | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Tennessee Volunteers vs. South Carolina Gamecocks | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="37" tvg-id="Football.Dummy.us" tvg-name="[American Football] Tennessee Volunteers vs. South Carolina Gamecocks | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Tennessee Volunteers vs. South Carolina Gamecocks | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/hfzljfahzcax29.m3u8
-#EXTINF:-1 tvg-chno="41" tvg-id="Football.Dummy.us" tvg-name="[American Football] Texas A&M Aggies vs. Alabama Crimson Tide | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Texas A&M Aggies vs. Alabama Crimson Tide | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="38" tvg-id="Football.Dummy.us" tvg-name="[American Football] Texas A&M Aggies vs. Alabama Crimson Tide | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Texas A&M Aggies vs. Alabama Crimson Tide | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/jzabfazkbf27.m3u8
-#EXTINF:-1 tvg-chno="42" tvg-id="Football.Dummy.us" tvg-name="[American Football] Texas Tech Red Raiders vs. Cincinnati Bearcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Texas Tech Red Raiders vs. Cincinnati Bearcats | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="39" tvg-id="Football.Dummy.us" tvg-name="[American Football] Texas Tech Red Raiders vs. Cincinnati Bearcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Texas Tech Red Raiders vs. Cincinnati Bearcats | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8
-#EXTINF:-1 tvg-chno="43" tvg-id="Football.Dummy.us" tvg-name="[American Football] USC Trojans vs. Wisconsin Badgers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] USC Trojans vs. Wisconsin Badgers | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="40" tvg-id="Football.Dummy.us" tvg-name="[American Football] USC Trojans vs. Wisconsin Badgers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] USC Trojans vs. Wisconsin Badgers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/fbnjzebjhcazhjg91.m3u8
-#EXTINF:-1 tvg-chno="44" tvg-id="Football.Dummy.us" tvg-name="[American Football] UTSA Roadrunners vs. Tulane Green Wave | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] UTSA Roadrunners vs. Tulane Green Wave | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="41" tvg-id="Football.Dummy.us" tvg-name="[American Football] UTSA Roadrunners vs. Tulane Green Wave | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] UTSA Roadrunners vs. Tulane Green Wave | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/etzrezbfezjhverf93.m3u8
-#EXTINF:-1 tvg-chno="45" tvg-id="Football.Dummy.us" tvg-name="[American Football] Utah State Aggies vs. Texas State Bobcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Utah State Aggies vs. Texas State Bobcats | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="42" tvg-id="Football.Dummy.us" tvg-name="[American Football] Utah State Aggies vs. Texas State Bobcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Utah State Aggies vs. Texas State Bobcats | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/xwcbnfghqscxfghaz92.m3u8
-#EXTINF:-1 tvg-chno="46" tvg-id="Football.Dummy.us" tvg-name="[American Football] Vanderbilt Commodores vs. Kentucky Wildcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Vanderbilt Commodores vs. Kentucky Wildcats | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="43" tvg-id="Football.Dummy.us" tvg-name="[American Football] Vanderbilt Commodores vs. Kentucky Wildcats | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Vanderbilt Commodores vs. Kentucky Wildcats | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/nbvevzaheafgu87.m3u8
-#EXTINF:-1 tvg-chno="47" tvg-id="Football.Dummy.us" tvg-name="[American Football] Virginia Tech Hokies vs. Clemson Tigers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Virginia Tech Hokies vs. Clemson Tigers | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="44" tvg-id="Football.Dummy.us" tvg-name="[American Football] Virginia Tech Hokies vs. Clemson Tigers | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Virginia Tech Hokies vs. Clemson Tigers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/xcxvvghzsadau86.m3u8
-#EXTINF:-1 tvg-chno="48" tvg-id="Football.Dummy.us" tvg-name="[American Football] West Virginia Mountaineers vs. TCU Horned Frogs | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] West Virginia Mountaineers vs. TCU Horned Frogs | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="45" tvg-id="Football.Dummy.us" tvg-name="[American Football] West Virginia Mountaineers vs. TCU Horned Frogs | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] West Virginia Mountaineers vs. TCU Horned Frogs | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream1.pro/hls/Czajafjihafch18.m3u8
-#EXTINF:-1 tvg-chno="49" tvg-id="Football.Dummy.us" tvg-name="[American Football] Western Michigan Broncos vs. Toledo Rockets | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Western Michigan Broncos vs. Toledo Rockets | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="46" tvg-id="Football.Dummy.us" tvg-name="[American Football] Western Michigan Broncos vs. Toledo Rockets | English (STRMCNTR)" tvg-logo="https://1000logos.net/wp-content/uploads/2024/01/Football-Emoji-500x281.png" group-title="Live Events",[American Football] Western Michigan Broncos vs. Toledo Rockets | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/fskjanach24.m3u8
-#EXTINF:-1 tvg-chno="53" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Tampa Bay Rays vs. Milwaukee Brewers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Tampa Bay Rays vs. Milwaukee Brewers | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="50" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[Baseball] Tampa Bay Rays vs. Milwaukee Brewers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[Baseball] Tampa Bay Rays vs. Milwaukee Brewers | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/dazhfiach15.m3u8
-#EXTINF:-1 tvg-chno="54" tvg-id="Live.Event.us" tvg-name="[Basketball Greece League] PAOK vs AEK Athens (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Basketball Greece League] PAOK vs AEK Athens (FAWA)
+#EXTINF:-1 tvg-chno="51" tvg-id="Live.Event.us" tvg-name="[Basketball Greece League] Panathinaikos vs AS Karditsas (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Basketball Greece League] Panathinaikos vs AS Karditsas (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/SSSSQQQ.m3u8
-#EXTINF:-1 tvg-chno="55" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Brooklyn Nets vs. Cleveland Cavaliers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Brooklyn Nets vs. Cleveland Cavaliers | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+http://193.47.62.55/hls/H8888A.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Brooklyn Nets vs. Cleveland Cavaliers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Brooklyn Nets vs. Cleveland Cavaliers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8
-#EXTINF:-1 tvg-chno="56" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Golden State Valkyries vs. Atlanta Dream | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[Basketball] Golden State Valkyries vs. Atlanta Dream | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="53" tvg-id="WNBA.dummy.us" tvg-name="[Basketball] Golden State Valkyries vs. Atlanta Dream | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[Basketball] Golden State Valkyries vs. Atlanta Dream | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8
-#EXTINF:-1 tvg-chno="57" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Golden State Warriors vs. Phoenix Suns | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Golden State Warriors vs. Phoenix Suns | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="54" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Golden State Warriors vs. Phoenix Suns | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Golden State Warriors vs. Phoenix Suns | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/pllmazjkdzajh72.m3u8
-#EXTINF:-1 tvg-chno="58" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Houston Rockets vs. Atlanta Hawks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Houston Rockets vs. Atlanta Hawks | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="55" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Houston Rockets vs. Atlanta Hawks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Houston Rockets vs. Atlanta Hawks | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8
-#EXTINF:-1 tvg-chno="59" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Miami Heat vs. Charlotte Hornets | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Miami Heat vs. Charlotte Hornets | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="56" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Miami Heat vs. Charlotte Hornets | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Miami Heat vs. Charlotte Hornets | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/mlkijfezag65.m3u8
-#EXTINF:-1 tvg-chno="60" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Milwaukee Bucks vs. Philadelphia 76ers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Milwaukee Bucks vs. Philadelphia 76ers | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="57" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Milwaukee Bucks vs. Philadelphia 76ers | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Milwaukee Bucks vs. Philadelphia 76ers | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/hfsdqtaxvb67.m3u8
-#EXTINF:-1 tvg-chno="61" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] New Orleans Pelicans vs. Denver Nuggets | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] New Orleans Pelicans vs. Denver Nuggets | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="58" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] New Orleans Pelicans vs. Denver Nuggets | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] New Orleans Pelicans vs. Denver Nuggets | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/ztyarueaghj71.m3u8
-#EXTINF:-1 tvg-chno="62" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] San Antonio Spurs vs. Dallas Mavericks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] San Antonio Spurs vs. Dallas Mavericks | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="59" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] San Antonio Spurs vs. Dallas Mavericks | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] San Antonio Spurs vs. Dallas Mavericks | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/zeafwqvhfe69.m3u8
-#EXTINF:-1 tvg-chno="63" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Washington Wizards vs. Chicago Bulls | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Washington Wizards vs. Chicago Bulls | English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="60" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[Basketball] Washington Wizards vs. Chicago Bulls | English (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[Basketball] Washington Wizards vs. Chicago Bulls | English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8
-#EXTINF:-1 tvg-chno="67" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[Boxing] Dalton Smith vs Alberto Puello Fight | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Boxing] Dalton Smith vs Alberto Puello Fight | English (STRMCNTR)
+#EXTINF:-1 tvg-chno="66" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[Boxing] Boxing : Smith vs Puello (FAWA)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Boxing] Boxing : Smith vs Puello (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/RRRRR.m3u8
+#EXTINF:-1 tvg-chno="67" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[Boxing] Dalton Smith vs Alberto Puello (FLYEMBD)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Boxing] Dalton Smith vs Alberto Puello (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://ehgembxe.cfd/flyemb/jyqzet0b-2901
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://tims-nl-0001.duckdns.org/main/secure/cbb0329a73a9b8fbb0e387a453691278f2ae0fff8f9d18b56d8fb957bc108b36/1792872009/dazn1-usa.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[Boxing] Dalton Smith vs Alberto Puello Fight | English (STRMCNTR)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Boxing] Dalton Smith vs Alberto Puello Fight | English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://embedcenter.st
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/hbfhzbfzak46.m3u8
+#EXTINF:-1 tvg-chno="69" tvg-id="PPV.EVENTS.Dummy.us" tvg-name="[Boxing] Smith vs Puello (iSTRMEAST)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[Boxing] Smith vs Puello (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58523?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/58523/load-playlist
+#EXTINF:-1 tvg-chno="177" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[College Football] Kansas vs Baylor (DAMITV)" tvg-logo="https://ondemand.st/img/cards/college-football/401856834.jpg?v=nf1" group-title="Live Events",[College Football] Kansas vs Baylor (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-golf~2459
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/s/golf/2459/2/playlist.m3u8?tk=hSC_4so2FeZSvSKR2uk9iQ&e=1792906206
 #EXTINF:-1 tvg-chno="565" tvg-id="MLB.Baseball.Dummy.us" tvg-name="[MLB] Rays vs Brewers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png" group-title="Live Events",[MLB] Rays vs Brewers (WEBCAST)
 #EXTVLCOPT:http-referrer=https://mlbwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=xkOCYcnEkG-pmD0ziMFTT80jLZA2bXnNR3ktLdE37KY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-%2F&expires=1792843343/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-/130.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=fvbI42m0WM0gOa6wVeSFHEgpQPMZuv-cK7u6JTByllo&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-%2F&expires=1792857726/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHLXb4kFQCcGXt8NBI1ncX-/130.m3u8
 #EXTINF:-1 tvg-chno="566" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Tamba Bay Rays vs Milwaukee Brewers (Final - Juego #2) 1 (STP)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[MLB] Tamba Bay Rays vs Milwaukee Brewers (Final - Juego #2) 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.envivosenhd.beer:443/global/espn2/index.m3u8?token=065c1d933e79db9f5b7fad3ed1a8b95363ecf2a8-81-1792888229-1792834229
+https://99.envivosenhd.beer:443/global/espn2/index.m3u8?token=06d648d3fc2132d40ac607ffa730dd83e5d01f07-99-1792908009-1792854009
 #EXTINF:-1 tvg-chno="567" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] Tamba Bay Rays vs Milwaukee Brewers (Final - Juego #2) 2 (STP)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[MLB] Tamba Bay Rays vs Milwaukee Brewers (Final - Juego #2) 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espnmx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/espnmx/index.m3u8?token=6b47fbaf4049f796a12f994354f80c3c24cd0ced-73-1792888229-1792834229
+https://98.envivosenhd.beer:443/global/espnmx/index.m3u8?token=b4d04cefbe72425c553416687be459ac369c79bb-6e-1792908010-1792854010
 #EXTINF:-1 tvg-chno="568" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] World Series – Game #2 – Milwaukee Brewers (rival a confirmar) | ESPN 2 (TVF90)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[MLB] World Series – Game #2 – Milwaukee Brewers (rival a confirmar) | ESPN 2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://10.ftlly.com:443/espn2/mono.m3u8?token=a5d409549aaa37708c1688fea9a2c2de4c71d8f2-78-1792860362-1792842362
+https://5.ftlly.com:443/espn2/mono.m3u8?token=6d8a1b7e686788a850fe690963b40dea218770d3-dd-1792880143-1792862143
 #EXTINF:-1 tvg-chno="569" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] World Series – Game #2 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | HD (TVF90)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[MLB] World Series – Game #2 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://5.ftlly.com:443/espn2/mono.m3u8?token=116accddda00c31b2445ca9cda53214a28374b9c-db-1792860363-1792842363
+https://9.ftlly.com:443/espn2/mono.m3u8?token=da38beed36d4b343ccb596b266e18ce30fa3fc31-87-1792880144-1792862144
 #EXTINF:-1 tvg-chno="570" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] World Series – Game #2 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | OP2 (TVF90)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[MLB] World Series – Game #2 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://7.ftlly.com:443/espn2/mono.m3u8?token=e0e11654b3220900b725949be0aa0de380bd6bf1-5b-1792860363-1792842363
+https://2.ftlly.com:443/espn2/mono.m3u8?token=66b4467e491b972673273e6fd6e92371cd5c5b26-1e-1792880143-1792862143
 #EXTINF:-1 tvg-chno="571" tvg-id="Baseball.Dummy.us" tvg-name="[MLB] World Series – Game #2 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | OP3 (TVF90)" tvg-logo="https://files.catbox.moe/vq587e.png" group-title="Live Events",[MLB] World Series – Game #2 – Milwaukee Brewers (rival a confirmar) | ESPN 2 | OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://2.ftlly.com:443/espn2/mono.m3u8?token=d663b604d78e6611eb55738dea3c97a88f7f5761-6e-1792860363-1792842363
-#EXTINF:-1 tvg-chno="609" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] 76ers vs Bucks | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] 76ers vs Bucks | NBA League Pass (STRMXHD)
+https://3.ftlly.com:443/espn2/mono.m3u8?token=59d89462c4486b2055f5dec59ac01e98caa6c670-2b-1792880144-1792862144
+#EXTINF:-1 tvg-chno="615" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] 76ers vs Bucks | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] 76ers vs Bucks | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=nba3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba3/index.m3u8?token=3ff1b7c1a51fd97c3462894aefbc46b256de49eb-dd-1792888243-1792834243
-#EXTINF:-1 tvg-chno="610" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Bulls vs Wizards | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Bulls vs Wizards | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba3/index.m3u8?token=5394ff59c02a5333d2c755d85dfb1d868428c1a4-8f-1792908021-1792854021
+#EXTINF:-1 tvg-chno="616" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Bulls vs Wizards | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Bulls vs Wizards | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=nba4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba4/index.m3u8?token=da9c6956d0ed8d849225e07799cc5a2ae5f801e0-8a-1792888243-1792834243
-#EXTINF:-1 tvg-chno="611" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Cavaliers vs Nets | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Cavaliers vs Nets | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba4/index.m3u8?token=9d9b5393495f454b1f4881d3bdd08f36629a1fb8-d8-1792908021-1792854021
+#EXTINF:-1 tvg-chno="617" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Cavaliers vs Nets | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Cavaliers vs Nets | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=nba2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba2/index.m3u8?token=90db233f72edb9c4b038c84b671f1f61866fa2d6-79-1792888242-1792834242
-#EXTINF:-1 tvg-chno="612" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Hawks vs Rockets | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Hawks vs Rockets | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba2/index.m3u8?token=68438d0fbc736155287936164aed1c31ff4120c0-ac-1792908021-1792854021
+#EXTINF:-1 tvg-chno="618" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Hawks vs Rockets | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Hawks vs Rockets | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=nba7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba7/index.m3u8?token=1dfdc3cf3b897ecb78a49b926b2cbd829bae66de-35-1792888244-1792834244
-#EXTINF:-1 tvg-chno="613" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Hornets vs Heat | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Hornets vs Heat | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba7/index.m3u8?token=9a4ea0c1b31f9ee6eee5145557dd4b69b1f4c518-30-1792908022-1792854022
+#EXTINF:-1 tvg-chno="619" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Hornets vs Heat | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Hornets vs Heat | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=nba1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba1/index.m3u8?token=334cad80a7502eb1c5961761d3101e676ed38f73-41-1792888242-1792834242
-#EXTINF:-1 tvg-chno="614" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Mavericks vs Spurs | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Mavericks vs Spurs | Disney + (STRMXHD)
+https://khala.futlivehd.com/global/nba1/index.m3u8?token=52aca709f472312dbc79b4f1a56e04054ad4b8cd-94-1792908021-1792854021
+#EXTINF:-1 tvg-chno="620" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Mavericks vs Spurs | Disney + (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Mavericks vs Spurs | Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=disney30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney30/index.m3u8?token=4beb55294a3664dcc20fe9ee96433b1d5bc8b227-6d-1792888243-1792834243
-#EXTINF:-1 tvg-chno="615" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Mavericks vs Spurs | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Mavericks vs Spurs | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/disney30/index.m3u8?token=c71c28aa453ce1a4b2f6ee4566cf2e57256558a8-7c-1792908022-1792854022
+#EXTINF:-1 tvg-chno="621" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Mavericks vs Spurs | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Mavericks vs Spurs | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=nba5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba5/index.m3u8?token=911706a168f0e30444764b75e8dc32f86a938f36-16-1792888244-1792834244
-#EXTINF:-1 tvg-chno="616" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Nuggets vs Pelicans | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Nuggets vs Pelicans | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba5/index.m3u8?token=a766a418b8e55e8b9b67e2a98c2d01d1ddd84070-38-1792908022-1792854022
+#EXTINF:-1 tvg-chno="622" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Nuggets vs Pelicans | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Nuggets vs Pelicans | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=nba6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba6/index.m3u8?token=19ca91e80380ef7ab8ea66285fe9c52adf6050ed-e0-1792888244-1792834244
-#EXTINF:-1 tvg-chno="617" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Suns vs Warriors | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Suns vs Warriors | NBA League Pass (STRMXHD)
+https://khala.futlivehd.com/global/nba6/index.m3u8?token=db3f4a5949644933763f45ef19a2be59201f0685-fe-1792908022-1792854022
+#EXTINF:-1 tvg-chno="623" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Suns vs Warriors | NBA League Pass (STRMXHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Suns vs Warriors | NBA League Pass (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.sbs/live1.php?stream=nba8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/nba8/index.m3u8?token=bdebc8eeb5aca447a7361dc522427cde1a252f6a-84-1792888244-1792834244
-#EXTINF:-1 tvg-chno="618" tvg-id="NFL.Dummy.us" tvg-name="[NFL] 49ers vs Falcons (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] 49ers vs Falcons (WEBCAST)
+https://khala.futlivehd.com/global/nba8/index.m3u8?token=7dd0c88679cae4e4b780a493d964f0865fc140a0-8c-1792908022-1792854022
+#EXTINF:-1 tvg-chno="637" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Auburn vs LSU (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Auburn vs LSU (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/TGGG.m3u8
+#EXTINF:-1 tvg-chno="638" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Cincinnati Bearcats vs Texas Tech (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Cincinnati Bearcats vs Texas Tech (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/TGGGA.m3u8
+#EXTINF:-1 tvg-chno="639" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Florida Atlantic vs Rice (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Florida Atlantic vs Rice (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/TGGGAA.m3u8
+#EXTINF:-1 tvg-chno="640" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Kent State vs Akron (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Kent State vs Akron (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/duuuuQQ.m3u8
+#EXTINF:-1 tvg-chno="641" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Miami FL vs Pittsburgh (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Miami FL vs Pittsburgh (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/TGGGAAA.m3u8
+#EXTINF:-1 tvg-chno="642" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Michigan vs Indiana (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Michigan vs Indiana (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/TGGGAAAA.m3u8
+#EXTINF:-1 tvg-chno="643" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Northwestern vs Rutgers (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Northwestern vs Rutgers (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/TGGGAAAAQ.m3u8
+#EXTINF:-1 tvg-chno="644" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Southern Methodist vs California (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Southern Methodist vs California (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/TGGGAAAAQQ.m3u8
+#EXTINF:-1 tvg-chno="645" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] TCU vs West Virginia (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] TCU vs West Virginia (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/TGGGAAAAQQQ.m3u8
+#EXTINF:-1 tvg-chno="646" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAA American Football] Toledo vs Western Michigan (FAWA)" tvg-logo="https://1000logos.net/wp-content/uploads/2021/12/NCAA-Logo-500x281.png" group-title="Live Events",[NCAA American Football] Toledo vs Western Michigan (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.55/hls/TGGGAAAAQQQQ.m3u8
+#EXTINF:-1 tvg-chno="647" tvg-id="Live.Event.us" tvg-name="[NCAA College Football] Auburn vs LSU (REED)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[NCAA College Football] Auburn vs LSU (REED)
+#EXTVLCOPT:http-referrer=https://reedstreams.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://admin.formaturamaxi.com.br/ncaa4.m3u8
+#EXTINF:-1 tvg-chno="648" tvg-id="Live.Event.us" tvg-name="[NCAA College Football] Cincinnati vs Texas Tech (REED)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[NCAA College Football] Cincinnati vs Texas Tech (REED)
+#EXTVLCOPT:http-referrer=https://reedstreams.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://admin.formaturamaxi.com.br/ncaa3.m3u8
+#EXTINF:-1 tvg-chno="649" tvg-id="Live.Event.us" tvg-name="[NCAA College Football] Illinois vs Oregon (REED)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[NCAA College Football] Illinois vs Oregon (REED)
+#EXTVLCOPT:http-referrer=https://reedstreams.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://admin2.formaturamaxi.com.br/bein3.m3u8
+#EXTINF:-1 tvg-chno="650" tvg-id="Live.Event.us" tvg-name="[NCAA College Football] Kansas vs Baylor (REED)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[NCAA College Football] Kansas vs Baylor (REED)
+#EXTVLCOPT:http-referrer=https://reedstreams.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://tedesco.formaturamaxi.com.br/ncaa10.m3u8
+#EXTINF:-1 tvg-chno="651" tvg-id="Live.Event.us" tvg-name="[NCAA College Football] Miami (FL) vs Pittsburgh (REED)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[NCAA College Football] Miami (FL) vs Pittsburgh (REED)
+#EXTVLCOPT:http-referrer=https://reedstreams.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://admin.formaturamaxi.com.br/ncaa.m3u8
+#EXTINF:-1 tvg-chno="652" tvg-id="Live.Event.us" tvg-name="[NCAA College Football] Michigan vs Indiana (REED)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[NCAA College Football] Michigan vs Indiana (REED)
+#EXTVLCOPT:http-referrer=https://reedstreams.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://admin.formaturamaxi.com.br/ncaa2.m3u8
+#EXTINF:-1 tvg-chno="653" tvg-id="Live.Event.us" tvg-name="[NCAA College Football] Northwestern vs Rutgers (REED)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[NCAA College Football] Northwestern vs Rutgers (REED)
+#EXTVLCOPT:http-referrer=https://reedstreams.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://admin2.formaturamaxi.com.br/ncaa6.m3u8
+#EXTINF:-1 tvg-chno="654" tvg-id="Live.Event.us" tvg-name="[NCAA College Football] SMU vs California (REED)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[NCAA College Football] SMU vs California (REED)
+#EXTVLCOPT:http-referrer=https://reedstreams.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://admin.formaturamaxi.com.br/ncaa5.m3u8
+#EXTINF:-1 tvg-chno="655" tvg-id="Live.Event.us" tvg-name="[NCAA College Football] TCU vs West Virginia (REED)" tvg-logo="https://files.catbox.moe/jd3pxq.png" group-title="Live Events",[NCAA College Football] TCU vs West Virginia (REED)
+#EXTVLCOPT:http-referrer=https://reedstreams.link
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://admin.formaturamaxi.com.br/ncaa7.m3u8
+#EXTINF:-1 tvg-chno="656" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Akron Zips at Kent State Golden Flashes (AURA)" tvg-logo="http://api.mullastr.dpdns.org/thumbnails/espn-401866446.png" group-title="Live Events",[NCAAF] Akron Zips at Kent State Golden Flashes (AURA)
+#EXTVLCOPT:http-referrer=https://frame.egybest.fit/frame/1497
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hls.meth-streams-hd.cfd/live/espn-401866446/index.m3u8
+#EXTINF:-1 tvg-chno="657" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Akron Zips vs Kent State Golden Flashes (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_akron-zips-vs-kent-state-golden-flashes_Akron_Zips_vs_Kent_State_Golde" group-title="Live Events",[NCAAF] Akron Zips vs Kent State Golden Flashes (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/akron-zips-vs-kent-state-golden-flashes1080p3/index.m3u8?_e=1792891808&_n=ce07a8feefb382c3&_t=nAbiYwutSI8H_IChs3iEvQ
+#EXTINF:-1 tvg-chno="658" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Indiana Hoosiers vs Michigan Wolverines (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_indiana-hoosiers-vs-michigan-wolverines_Indiana_Hoosiers_vs_Michigan_W" group-title="Live Events",[NCAAF] Indiana Hoosiers vs Michigan Wolverines (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/indiana-hoosiers-vs-michigan-wolverines1080p3/index.m3u8?_e=1792890009&_n=a9e0aaf2acf35cc0&_t=msXFqkkSNGkQlTF0GFuAgQ
+#EXTINF:-1 tvg-chno="659" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Miami (OH) RedHawks at Central Michigan Chippewas (AURA)" tvg-logo="http://api.mullastr.dpdns.org/thumbnails/espn-401866476.png" group-title="Live Events",[NCAAF] Miami (OH) RedHawks at Central Michigan Chippewas (AURA)
+#EXTVLCOPT:http-referrer=https://frame.egybest.fit/frame/1498
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hls.meth-streams-hd.cfd/live/espn-401866476/index.m3u8
+#EXTINF:-1 tvg-chno="660" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Miami (OH) RedHawks vs Central Michigan Chippewas (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_miami-oh-redhawks-vs-central-michigan-chippewas_Miami_OH_RedHawks_vs_Central_M" group-title="Live Events",[NCAAF] Miami (OH) RedHawks vs Central Michigan Chippewas (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/miami-oh-redhawks-vs-central-michigan-chippewas1080p3/index.m3u8?_e=1792891808&_n=e64b480cdd4116e4&_t=Gx69SZOVd-EaXFUqRErWzg
+#EXTINF:-1 tvg-chno="661" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Pittsburgh Panthers vs Miami Hurricanes (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_pittsburgh-panthers-vs-miami-hurricanes_Pittsburgh_Panthers_vs_Miami_H" group-title="Live Events",[NCAAF] Pittsburgh Panthers vs Miami Hurricanes (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/pittsburgh-panthers-vs-miami-hurricanes1080p3/index.m3u8?_e=1792890009&_n=249ca68f78e9cc9a&_t=-ushK6gvp-dgXb0WCwsqOw
+#EXTINF:-1 tvg-chno="662" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Rice Owls vs Florida Atlantic Owls (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_rice-owls-vs-florida-atlantic-owls_Rice_Owls_vs_Florida_Atlantic_" group-title="Live Events",[NCAAF] Rice Owls vs Florida Atlantic Owls (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/rice-owls-vs-florida-atlantic-owls1080p3/index.m3u8?_e=1792890012&_n=e39415b3edff4e1a&_t=-vH0GNRk5A2s53_NSfWfBQ
+#EXTINF:-1 tvg-chno="663" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Rutgers Scarlet Knights vs Northwestern Wildcats (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_rutgers-scarlet-knights-vs-northwestern-wildcats_Rutgers_Scarlet_Knights_vs_Nor" group-title="Live Events",[NCAAF] Rutgers Scarlet Knights vs Northwestern Wildcats (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/rutgers-scarlet-knights-vs-northwestern-wildcats1080p3/index.m3u8?_e=1792890011&_n=923ebacced525b9b&_t=HNXEEpKuQzrkUrifV-PxsA
+#EXTINF:-1 tvg-chno="664" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Texas Tech Red Raiders vs Cincinnati Bearcats (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_texas-tech-red-raiders-vs-cincinnati-bearcats_Texas_Tech_Red_Raiders_vs_Cinc" group-title="Live Events",[NCAAF] Texas Tech Red Raiders vs Cincinnati Bearcats (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/texas-tech-red-raiders-vs-cincinnati-bearcats1080p3/index.m3u8?_e=1792890010&_n=668cff9d8388f8b7&_t=TpiyfBhKSKshMlMupXyKYg
+#EXTINF:-1 tvg-chno="665" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] West Virginia Mountaineers vs TCU Horned Frogs (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_west-virginia-mountaineers-vs-tcu-horned-frogs_West_Virginia_Mountaineers_vs_" group-title="Live Events",[NCAAF] West Virginia Mountaineers vs TCU Horned Frogs (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/west-virginia-mountaineers-vs-tcu-horned-frogs1080p3/index.m3u8?_e=1792890011&_n=d70531c79573a41b&_t=4iw2ZbJVTzcFyM_aznDi3A
+#EXTINF:-1 tvg-chno="666" tvg-id="NCAA.Sports.Dummy.us" tvg-name="[NCAAF] Western Michigan Broncos vs Toledo Rockets (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/football_western-michigan-broncos-vs-toledo-rockets_Western_Michigan_Broncos_vs_To" group-title="Live Events",[NCAAF] Western Michigan Broncos vs Toledo Rockets (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/western-michigan-broncos-vs-toledo-rockets1080p3/index.m3u8?_e=1792890012&_n=57d3563db2779859&_t=YUJKhQFRIWOgIAg2YlMIGw
+#EXTINF:-1 tvg-chno="667" tvg-id="NFL.Dummy.us" tvg-name="[NFL] 49ers vs Falcons (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] 49ers vs Falcons (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=Yp1zdSQv1AN_195Y1-he48fQh70YuEZpJiYEc156pE0&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv%2F&expires=1792843348/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv/64.m3u8
-#EXTINF:-1 tvg-chno="619" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Bengals vs Ravens (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Bengals vs Ravens (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=URx-IkklIJN2Br_8lmNYhhUGz-kk-dOsIea2O8SkX8Q&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv%2F&expires=1792857731/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEQZB3mjkC0iJ60dmnh-_Dv/64.m3u8
+#EXTINF:-1 tvg-chno="668" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Bengals vs Ravens (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Bengals vs Ravens (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=F74OJAZMVs4x_gGylTHQPxj0ekkpBbYHDphTp6Q2JOU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-%2F&expires=1792843345/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-/73.m3u8
-#EXTINF:-1 tvg-chno="620" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Broncos vs Cardinals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Broncos vs Cardinals (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=t1Zp48bqCAKiz8Kzt2HVD4eHsWuSZET9jBlx0yQC9IM&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-%2F&expires=1792857728/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEEdjTgGciGXnWteyv3X0l-/73.m3u8
+#EXTINF:-1 tvg-chno="669" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Broncos vs Cardinals (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Broncos vs Cardinals (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=LkFf0sMMr2fefDJIp70TijrxFusRCOk_U2aI9OXPcsY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhtKHGK8hGecyVVsIlxlak%2F&expires=1792843349/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhtKHGK8hGecyVVsIlxlak/57.m3u8
-#EXTINF:-1 tvg-chno="621" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Browns vs Titans (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Browns vs Titans (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=SoIKC10K7BYrZxirw3E1qsEjvOkwuNpZH9SEtxtnD2E&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhtKHGK8hGecyVVsIlxlak%2F&expires=1792857731/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHhtKHGK8hGecyVVsIlxlak/57.m3u8
+#EXTINF:-1 tvg-chno="670" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Browns vs Titans (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Browns vs Titans (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=OQKvgxNGSKvsTNhmmv8DCRry5djnANAyVDIJsJiKHow&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHv6Cb3QBvB4ZnraXpvTyrk%2F&expires=1792843346/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHv6Cb3QBvB4ZnraXpvTyrk/78.m3u8
-#EXTINF:-1 tvg-chno="622" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Buccaneers vs Panthers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Buccaneers vs Panthers (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=qi2KVXpqoN3MXvWkaU4g4aXPqFwsH1MUufP0y4wHCUA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHv6Cb3QBvB4ZnraXpvTyrk%2F&expires=1792857728/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHv6Cb3QBvB4ZnraXpvTyrk/78.m3u8
+#EXTINF:-1 tvg-chno="671" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Buccaneers vs Panthers (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Buccaneers vs Panthers (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=b6Zi5dGAp_4SM1wpNwCRCblZPpHx-s0S5g5ZYF8xyu8&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7a86grgIPk2H4Y6Db_ALD%2F&expires=1792843348/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7a86grgIPk2H4Y6Db_ALD/231.m3u8
-#EXTINF:-1 tvg-chno="623" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Chiefs vs Seahawks (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Chiefs vs Seahawks (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=gtBptCqJoWsuLD62O0BRGQbttOXHt9wWh1OP-vbQpuI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7a86grgIPk2H4Y6Db_ALD%2F&expires=1792857731/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhG7a86grgIPk2H4Y6Db_ALD/231.m3u8
+#EXTINF:-1 tvg-chno="672" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Chiefs vs Seahawks (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Chiefs vs Seahawks (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=XkkYDx4_YiRhp-hMC_XZ1EZiDhAT8qyCibBnDRikQ70&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFolP7eA9_VD-4bwC-VhQjq%2F&expires=1792843351/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFolP7eA9_VD-4bwC-VhQjq/235.m3u8
-#EXTINF:-1 tvg-chno="624" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Colts vs Vikings (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Colts vs Vikings (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=FI6U9FjTdBrNS9V3GMvEsfkDAReHwSwT4LxFpIkCgfc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFolP7eA9_VD-4bwC-VhQjq%2F&expires=1792857733/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFolP7eA9_VD-4bwC-VhQjq/235.m3u8
+#EXTINF:-1 tvg-chno="673" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Colts vs Vikings (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Colts vs Vikings (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=dljNANCWy885ZAxedsvIAQUSpjELdkff5U7Pa-v-SmI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEw-3Ghuy719EwUps0fBbs_%2F&expires=1792843346/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEw-3Ghuy719EwUps0fBbs_/79.m3u8
-#EXTINF:-1 tvg-chno="625" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Dolphins vs Jets (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Dolphins vs Jets (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=bVmoaFYDxe01lH3GAwEH5ILkcPRW_-MkEiPl5FkC-XY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEw-3Ghuy719EwUps0fBbs_%2F&expires=1792857729/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEw-3Ghuy719EwUps0fBbs_/79.m3u8
+#EXTINF:-1 tvg-chno="674" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Dolphins vs Jets (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Dolphins vs Jets (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=qjPovIjWeqeNkPMEIh6AMsIkjtopjCuYYKcAfGzMZSw&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFF2qG3vdYasHw1BSBvc-qK%2F&expires=1792843347/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFF2qG3vdYasHw1BSBvc-qK/229.m3u8
-#EXTINF:-1 tvg-chno="626" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Giants vs Texans (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Giants vs Texans (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=Hr4A9Fu9QtDlCGjcRy_rYHMEdoudWbZKjrD9OH0fswI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFF2qG3vdYasHw1BSBvc-qK%2F&expires=1792857729/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFF2qG3vdYasHw1BSBvc-qK/229.m3u8
+#EXTINF:-1 tvg-chno="675" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Giants vs Texans (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Giants vs Texans (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=rpEiHRmQ7i5z14TNIJHe-D7sH1AoGpFrZHtzB282DG4&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhESrYE_zYX3DiGoYJCmI-xY%2F&expires=1792843347/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhESrYE_zYX3DiGoYJCmI-xY/77.m3u8
-#EXTINF:-1 tvg-chno="627" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Packers vs Lions (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Packers vs Lions (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=9GYMeAj1MK4L9dnM9Si1zLHDDrA-_sFDGUPyaStGfjA&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhESrYE_zYX3DiGoYJCmI-xY%2F&expires=1792857730/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhESrYE_zYX3DiGoYJCmI-xY/77.m3u8
+#EXTINF:-1 tvg-chno="676" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Packers vs Lions (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Packers vs Lions (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=dzy4nItX_0ssjX6wADF89niMgxk66ZzKGNbKmb28hwU&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGPHEnzoLObEGN7MQ5KD6zv%2F&expires=1792843350/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGPHEnzoLObEGN7MQ5KD6zv/68.m3u8
-#EXTINF:-1 tvg-chno="628" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Rams vs Raiders (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Rams vs Raiders (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=hMmXfzSxCZZHTVh9UP500TQhwXoBHBiFlymeVoQDuwI&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGPHEnzoLObEGN7MQ5KD6zv%2F&expires=1792857732/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGPHEnzoLObEGN7MQ5KD6zv/68.m3u8
+#EXTINF:-1 tvg-chno="677" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Rams vs Raiders (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Rams vs Raiders (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=njqQDJl70jQ-MH25vOslE4sO2toeXqifSY-CfFI1Ajs&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGtMo1okNBZlDE9tP5KCJum%2F&expires=1792843350/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGtMo1okNBZlDE9tP5KCJum/72.m3u8
-#EXTINF:-1 tvg-chno="629" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Steelers vs Saints (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Steelers vs Saints (WEBCAST)
+https://webcast-origin.b-cdn.net/bcdn_token=Y8J70zJp2Pe6NDGRvHXSf6OXkRrqTU6qksNXnMeQwEY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGtMo1okNBZlDE9tP5KCJum%2F&expires=1792857732/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhGtMo1okNBZlDE9tP5KCJum/72.m3u8
+#EXTINF:-1 tvg-chno="678" tvg-id="NFL.Dummy.us" tvg-name="[NFL] Steelers vs Saints (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png" group-title="Live Events",[NFL] Steelers vs Saints (WEBCAST)
 #EXTVLCOPT:http-referrer=https://nflwebcast.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://webcast-origin.b-cdn.net/bcdn_token=d7IhsaLbpEdHDUL7KR-HJE9JyrGFw7dz1DXsMC1AJro&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFVI8WIOEDH8sxCh8XF1wTm%2F&expires=1792843344/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFVI8WIOEDH8sxCh8XF1wTm/224.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=0VlL3EK-bWD7puRZV09DclI-JF3swWdBp8bjiQhO6LY&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFVI8WIOEDH8sxCh8XF1wTm%2F&expires=1792857727/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhFVI8WIOEDH8sxCh8XF1wTm/224.m3u8
+#EXTINF:-1 tvg-chno="957" tvg-id="Tennis.Dummy.us" tvg-name="[Tennis] Tennis Channel (DAMITV)" tvg-logo="https://ondemand.st/img/y/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzuBEBDXsQZgdgwwRgBOYAU0hDpqxQFZh5Tg0wmJgATMNTTAWkVqNri0LIinbQ61OvHS5CISiCggGIRPzWq0hNTTV5s2AMb6NNFif4h+VFxux5bFLXnk3aASx2PV0+LRRNR0hAtjYUBHZQYkk2JjBHEFsaOxytGFZYSWt5YFIVGOVgeTYOMl5AiCA.webp" group-title="Live Events",[Tennis] Tennis Channel (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~admin-tennis-channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/s/admin/admin-tennis-channel/2/playlist.m3u8?tk=hSC_4so2FeZSvSKR2uk9iQ&e=1792906206
+#EXTINF:-1 tvg-chno="971" tvg-id="WNBA.dummy.us" tvg-name="[WNBA Basketball] Atlanta Dream W vs Golden State Valkyries W (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA Basketball] Atlanta Dream W vs Golden State Valkyries W (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.44/hls/EEEEQ.m3u8
+#EXTINF:-1 tvg-chno="972" tvg-id="WNBA.dummy.us" tvg-name="[WNBA Basketball] Atlanta Dream W vs Golden State Valkyries W 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA Basketball] Atlanta Dream W vs Golden State Valkyries W 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/3698d438-a99c-451c-91ae-4db2eca5010a.m3u8
+#EXTINF:-1 tvg-chno="973" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Atlanta Dream vs Golden State Valkyries (iSTRMEAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/wnba.png" group-title="Live Events",[WNBA] Atlanta Dream vs Golden State Valkyries (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/58517?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/58517/load-playlist
+#EXTINF:-1 tvg-chno="974" tvg-id="WNBA.dummy.us" tvg-name="[WNBA] Golden State Valkyries vs Atlanta Dream (STRMFREE)" tvg-logo="https://streamfree.top/thumbnails/basketball_golden-state-valkyries-vs-atlanta-dream_Golden_State_Valkyries_vs_Atla" group-title="Live Events",[WNBA] Golden State Valkyries vs Atlanta Dream (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/golden-state-valkyries-vs-atlanta-dream1080p3/index.m3u8?_e=1792891806&_n=f26b7a61b2649242&_t=xUmwpBZSg06uSL8nmRoS4w
